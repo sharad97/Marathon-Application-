@@ -5,14 +5,18 @@
 
 ## To run spider:
 
-1. open cmd prompt (a)
+1. create Microsoft Azure SQL Server Database
 
-2. go to location of project folder by doing:
+2. create Table in database with column and datatypes (see pipeline and spider for table)
+
+3. open cmd prompt (a)
+
+4. go to location of project folder by doing:
    ```
    cd marathon
    ```
    
-3. run follwoing cmd in cmd prompt (a) to upload data into Microsoft Azure SQl Server Database
+5. run follwoing cmd in cmd prompt (a) to upload data into Microsoft Azure SQl Server Database
    and creates json + csv file automatically:
    ```
    scrapy crawl marathon
