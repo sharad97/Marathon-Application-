@@ -7,7 +7,7 @@
 
 1. create Microsoft Azure SQL Server Database
 
-2. create Table in database with column and datatypes (see SQLQuery.sql)
+2. create Table in database with column and datatypes (see [SQLQuery.sql](https://github.com/sharad97/Marathon-Application-/blob/Development/SQLQuery.sql))
 
 3. open cmd prompt (a)
 
