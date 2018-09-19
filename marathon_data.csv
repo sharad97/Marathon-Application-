@@ -1,0 +1,915 @@
+Age,Bib,City,DivPl,Name,Overall,Sex,SexPl,State,Time
+29,1,Santa Fe,1 / 914,Dominic Ondoro,1 / 7490,M,1 / 4091,'NM',2:11:53
+25,5,Albuquerque,2 / 914,Nelson Oyugi,3 / 7490,M,3 / 4091,'NM',2:14:33
+27,30,Albuquerque,3 / 914,Boniface Kongin,4 / 7490,M,4 / 4091,'NM',2:15:07
+29,10,Flagstaff,4 / 914,Daniel Mesfun,5 / 7490,M,5 / 4091,'AZ',2:16:55
+24,14,White Plains,5 / 914,Dominic Korir,6 / 7490,M,6 / 4091,'MD',2:17:32
+26,16,West Allis,6 / 914,John Dewitt,7 / 7490,M,7 / 4091,'WI',2:18:21
+24,26,Minneapolis,7 / 914,Conor Wells,11 / 7490,M,11 / 4091,'MN',2:25:59
+28,17,Spearfish,8 / 914,Scott Foley,12 / 7490,M,12 / 4091,'SD',2:27:40
+29,15,Flagstaff,9 / 914,Michael Crouch,13 / 7490,M,13 / 4091,'AZ',2:28:20
+27,27,Ramsey,10 / 914,William Fladland,14 / 7490,M,14 / 4091,'MN',2:29:18
+25,12,Le Sueur,11 / 914,Trent Lusignan,18 / 7490,M,16 / 4091,'MN',2:31:51
+29,2937,Moorhead,12 / 914,Adam Pangrac,21 / 7490,M,18 / 4091,'MN',2:33:00
+26,2307,Dubuque,13 / 914,Evan Neubauer,24 / 7490,M,21 / 4091,'IA',2:36:19
+29,2490,Minneapolis,14 / 914,Mike Bumgarner,25 / 7490,M,22 / 4091,'MN',2:37:13
+23,1151,Duluth,15 / 914,Drew Johnson,31 / 7490,M,27 / 4091,'MN',2:39:19
+23,3684,Duluth,16 / 914,Matthew Eidenschink,32 / 7490,M,28 / 4091,'MN',2:39:38
+24,3696,Iowa City,17 / 914,Trai Bunch,34 / 7490,M,30 / 4091,'IA',2:39:51
+27,1241,St Paul,18 / 914,Jacob Naegeli,35 / 7490,M,31 / 4091,'MN',2:40:12
+23,2788,Des Moines,19 / 914,John Paul Sevcik,36 / 7490,M,32 / 4091,'IA',2:40:42
+24,2582,Plymouth,20 / 914,Marcus Hoof,37 / 7490,M,33 / 4091,'MN',2:41:12
+27,1223,Maple Grove,21 / 914,Erik Hoeg,38 / 7490,M,34 / 4091,'MN',2:42:08
+25,2031,St Louis Park,22 / 914,Alex Cole,39 / 7490,M,35 / 4091,'MN',2:42:28
+25,2405,Minneapolis,23 / 914,Ethan Harris,40 / 7490,M,36 / 4091,'MN',2:42:32
+25,3160,San Francisco,24 / 914,Stefan Lemke,43 / 7490,M,39 / 4091,'CA',2:43:03
+25,3071,Seattle,25 / 914,John Erich Christian,45 / 7490,M,41 / 4091,'WA',2:43:40
+28,2508,Northfield,26 / 914,Marcos Santos Melchor,46 / 7490,M,42 / 4091,'MN',2:43:43
+28,2168,Milwaukee,27 / 914,Nicholas Limoni,55 / 7490,M,50 / 4091,'WI',2:47:01
+29,2571,Minneapolis,28 / 914,Victor Sanchez Castro,56 / 7490,M,51 / 4091,'MN',2:47:48
+26,1355,Plover,29 / 914,Jordan King,57 / 7490,M,52 / 4091,'WI',2:47:53
+29,3876,Stillwater,30 / 914,Sufian Kalil,58 / 7490,M,53 / 4091,'MN',2:47:53
+26,3055,Minneapolis,31 / 914,Ethan Komoroski,59 / 7490,M,54 / 4091,'MN',2:48:15
+26,1706,Eugene,32 / 914,Evan Day,62 / 7490,M,57 / 4091,'OR',2:48:36
+23,1735,Stillwater,33 / 914,Ethan Anderson,64 / 7490,M,59 / 4091,'MN',2:48:43
+27,2932,Glen Ellyn,34 / 914,Tj Luby,71 / 7490,M,65 / 4091,'IL',2:49:18
+28,2626,St Paul,35 / 914,Matt Volz,72 / 7490,M,66 / 4091,'MN',2:49:19
+23,2239,St Paul,36 / 914,Isaac Secor,74 / 7490,M,68 / 4091,'MN',2:49:27
+24,1887,Long Prairie,37 / 914,Jeremy Welters,82 / 7490,M,74 / 4091,'MN',2:50:49
+26,1580,Fargo,38 / 914,Brad McConn,83 / 7490,M,75 / 4091,'ND',2:50:50
+26,2406,St Paul,39 / 914,Paul Tokar,84 / 7490,M,76 / 4091,'MN',2:50:57
+27,2235,Minneapolis,40 / 914,Daniel Sevcik,86 / 7490,M,78 / 4091,'MN',2:52:02
+25,1806,Garden City,41 / 914,Jonny Bernasky,89 / 7490,M,80 / 4091,'KS',2:52:21
+29,3578,Decorah,42 / 914,Ryan Engelman,91 / 7490,M,82 / 4091,'IA',2:52:37
+25,3707,Portland,43 / 914,Marcus Schneider,92 / 7490,M,83 / 4091,'OR',2:52:43
+26,3276,Minneapolis,44 / 914,Kiefer Hotek,95 / 7490,M,85 / 4091,'MN',2:53:35
+24,1637,Minneapolis,45 / 914,Jacob Greeneway,96 / 7490,M,86 / 4091,'MN',2:53:36
+24,1297,Superior,46 / 914,Steven Barnabo,101 / 7490,M,91 / 4091,'WI',2:54:13
+24,2049,McPherson,47 / 914,Nikolous Rempe,112 / 7490,M,101 / 4091,'KS',2:55:10
+28,2462,Arvada,48 / 914,Brett Arpin,117 / 7490,M,104 / 4091,'CO',2:55:53
+28,2165,Fort Collins,49 / 914,Peter Goble,120 / 7490,M,107 / 4091,'CO',2:56:02
+28,1699,Richfield,50 / 914,Nick Anderson,121 / 7490,M,108 / 4091,'MN',2:56:06
+25,2724,Somerville,51 / 914,Jacob Hoerger,125 / 7490,M,112 / 4091,'MA',2:56:38
+22,3654,Swisher,52 / 914,Bailey Wetherell,130 / 7490,M,117 / 4091,'IA',2:56:54
+25,3918,Maple Grove,53 / 914,Luke Iverson,131 / 7490,M,118 / 4091,'MN',2:56:55
+24,1809,Madison,54 / 914,Garrett Nelson,135 / 7490,M,122 / 4091,'WI',2:57:07
+26,2489,Manchester,55 / 914,Eric Kimball,136 / 7490,M,123 / 4091,'MA',2:57:20
+23,2064,Minneapolis,56 / 914,Peter Metzdorff,142 / 7490,M,129 / 4091,'MN',2:57:44
+28,2849,Portland,57 / 914,Mustafa Alavi,146 / 7490,M,133 / 4091,'OR',2:58:10
+22,3260,Mankato,58 / 914,Collin Buck,149 / 7490,M,136 / 4091,'MN',2:58:28
+28,3390,Minneapolis,59 / 914,Lucas Windholz,153 / 7490,M,139 / 4091,'MN',2:58:42
+25,3672,Minneapolis,60 / 914,Joe Laue,160 / 7490,M,145 / 4091,'MN',2:59:30
+28,3091,Minneapolis,61 / 914,Nathaniel Shields,163 / 7490,M,148 / 4091,'MN',2:59:38
+26,2828,Mercerville,62 / 914,Andrew MacLane,167 / 7490,M,151 / 4091,'NJ',2:59:54
+23,2120,Chicago,63 / 914,Kyler Hu,168 / 7490,M,152 / 4091,'IL',2:59:56
+29,3229,Chaska,64 / 914,Shawn Woodland,172 / 7490,M,156 / 4091,'MN',3:00:18
+25,3179,Minneapolis,65 / 914,Brandon Piekarski,174 / 7490,M,158 / 4091,'MN',3:00:43
+25,2935,St Paul,66 / 914,William Robertson,181 / 7490,M,165 / 4091,'MN',3:01:29
+25,3516,Moorhead,67 / 914,Joshua Andres,183 / 7490,M,167 / 4091,'MN',3:01:50
+23,1566,Madison,68 / 914,Bernard Xie,191 / 7490,M,173 / 4091,'WI',3:02:25
+24,2183,Chicago,69 / 914,Mark Choate,193 / 7490,M,175 / 4091,'IL',3:02:31
+22,1164,Orono,70 / 914,Nicholas Schroeder,199 / 7490,M,180 / 4091,'MN',3:03:01
+26,1016,Burnsville,71 / 914,Matthew Wiegand,203 / 7490,M,184 / 4091,'MN',3:03:10
+26,2386,Alexandria,72 / 914,Drew Paradis,204 / 7490,M,185 / 4091,'MN',3:03:12
+25,1989,Minneapolis,73 / 914,Brian Rush,208 / 7490,M,188 / 4091,'MN',3:03:23
+25,2491,Minneapolis,74 / 914,Tony Falk,209 / 7490,M,189 / 4091,'MN',3:03:23
+25,2343,Bloomington,75 / 914,Andy Mestad,213 / 7490,M,193 / 4091,'MN',3:03:54
+27,3817,Menomonie,76 / 914,Mike Merritt,215 / 7490,M,195 / 4091,'WI',3:03:57
+29,3278,Durham,77 / 914,Brendan Murray,217 / 7490,M,197 / 4091,'NC',3:04:05
+24,3445,Minnetonka,78 / 914,Sam Schwebach,222 / 7490,M,201 / 4091,'MN',3:04:18
+28,2192,Evanston,79 / 914,Elias Theodosis,225 / 7490,M,204 / 4091,'IL',3:04:26
+25,1107,St Louis Park,80 / 914,Matthew Axelrod,227 / 7490,M,206 / 4091,'MN',3:04:28
+26,2802,Durham,81 / 914,Jake Hausauer,230 / 7490,M,209 / 4091,'NC',3:04:35
+26,3930,St Paul,82 / 914,Cameron Wing,239 / 7490,M,218 / 4091,'MN',3:05:01
+29,3126,Coon Rapids,83 / 914,Jordan Nimlos,249 / 7490,M,227 / 4091,'MN',3:05:34
+28,3314,Decorah,84 / 914,Jason Engelken,252 / 7490,M,230 / 4091,'IA',3:05:46
+29,3215,Minneapolis,85 / 914,Rob Swayze,255 / 7490,M,233 / 4091,'MN',3:05:58
+29,1260,Maple Grove,86 / 914,Ryan Noack,256 / 7490,M,234 / 4091,'MN',3:06:05
+28,1257,St Louis Park,87 / 914,David Hong,257 / 7490,M,235 / 4091,'MN',3:06:13
+29,2585,Duluth,88 / 914,Dillon Johnston,258 / 7490,M,236 / 4091,'MN',3:06:16
+22,2556,Minneapolis,89 / 914,Brandon Eckroth,259 / 7490,M,237 / 4091,'MN',3:06:20
+24,3133,Shoreview,90 / 914,Shane Carlson,262 / 7490,M,239 / 4091,'MN',3:06:25
+26,3225,Duluth,91 / 914,Slavomir Tkac,263 / 7490,M,240 / 4091,'MN',3:06:28
+24,3657,Maple Grove,92 / 914,Josiah Miller,278 / 7490,M,253 / 4091,'MN',3:07:57
+28,2778,Minneapolis,93 / 914,Ben Cox,280 / 7490,M,255 / 4091,'MN',3:08:01
+28,2765,Minneapolis,94 / 914,Patrick Halbach,283 / 7490,M,257 / 4091,'MN',3:08:08
+26,2669,Minneapolis,95 / 914,Michael Seely,289 / 7490,M,263 / 4091,'MN',3:08:41
+26,1759,Minneapolis,96 / 914,Egor Malkov,300 / 7490,M,270 / 4091,'MN',3:09:24
+24,2352,Wyoming,97 / 914,Carter Peterson,301 / 7490,M,271 / 4091,'MN',3:09:25
+29,1265,Minneapolis,98 / 914,David Calhoun,303 / 7490,M,272 / 4091,'MN',3:09:30
+27,3750,Rochester,99 / 914,Alec Shunk,310 / 7490,M,278 / 4091,'IL',3:09:52
+25,1071,Edina,100 / 914,Christopher Dempsey,320 / 7490,M,286 / 4091,'MN',3:10:18
+29,2265,Dallas,101 / 914,Charles Neff,323 / 7490,M,289 / 4091,'TX',3:10:25
+29,3046,St Louis Park,102 / 914,Christopher Disalvi,327 / 7490,M,292 / 4091,'MN',3:10:46
+29,1070,Minneapolis,103 / 914,Dmytro Koshevy,332 / 7490,M,297 / 4091,'MN',3:11:04
+27,3358,Eden Prairie,104 / 914,Zachary Hanson,346 / 7490,M,308 / 4091,'MN',3:11:53
+24,3356,Wayzata,105 / 914,Josh Conway,348 / 7490,M,310 / 4091,'MN',3:12:04
+28,2410,Chicago,106 / 914,Keith Lehuta,354 / 7490,M,315 / 4091,'IL',3:12:24
+27,1133,Blaine,107 / 914,Ben Ceder,359 / 7490,M,319 / 4091,'MN',3:12:45
+28,2117,Westchester,108 / 914,Ben Boerema,361 / 7490,M,321 / 4091,'IL',3:12:46
+23,2944,Adel,109 / 914,Bret Powers,369 / 7490,M,324 / 4091,'IA',3:13:15
+28,1087,Fridley,110 / 914,Anthony Iten,370 / 7490,M,325 / 4091,'MN',3:13:16
+25,2314,St Paul,111 / 914,Noel Naughton,372 / 7490,M,326 / 4091,'MN',3:13:17
+29,3329,St Paul,112 / 914,Brandon Stone,374 / 7490,M,328 / 4091,'MN',3:13:20
+27,1556,Minneapolis,113 / 914,Adam Salwey,385 / 7490,M,338 / 4091,'MN',3:13:48
+25,2803,Mexico City,114 / 914,Manuel Orozco,389 / 7490,M,342 / 4091,'',3:13:58
+27,2055,Chicago,115 / 914,Kyle Probst,390 / 7490,M,343 / 4091,'IL',3:14:02
+22,3556,Minneapolis,116 / 914,Nicholas Kowaleski,406 / 7490,M,353 / 4091,'MN',3:14:54
+24,2225,Brookline,117 / 914,Matthew Westfall,414 / 7490,M,359 / 4091,'MA',3:15:13
+23,1943,Eden Prairie,118 / 914,Evan Olawsky,415 / 7490,M,360 / 4091,'MN',3:15:14
+27,3257,Stevens Point,119 / 914,Nate Hatton,417 / 7490,M,362 / 4091,'WI',3:15:20
+22,2942,West Salem,120 / 914,Zachary Lang,422 / 7490,M,365 / 4091,'WI',3:15:42
+26,3167,Bloomington,121 / 914,Jason Coffin,425 / 7490,M,368 / 4091,'MN',3:15:51
+22,3383,Minneapolis,122 / 914,Miles Sebald,432 / 7490,M,373 / 4091,'MN',3:16:28
+25,2399,Minneapolis,123 / 914,Matt Carlson,440 / 7490,M,379 / 4091,'MN',3:16:53
+26,3809,Plymouth,124 / 914,Joseph Larson,442 / 7490,M,381 / 4091,'MN',3:16:54
+27,1947,Minneapolis,125 / 914,Tom Lyscio,444 / 7490,M,382 / 4091,'MN',3:16:59
+28,1934,Valparaiso,126 / 914,Devin Horner,457 / 7490,M,389 / 4091,'IN',3:17:54
+26,3905,Minneapolis,127 / 914,Derek Parker,458 / 7490,M,390 / 4091,'MN',3:17:58
+23,3937,Plymouth,128 / 914,Andrew Kershaw,468 / 7490,M,396 / 4091,'MN',3:18:34
+25,3452,Duluth,129 / 914,Kyle Sather,478 / 7490,M,402 / 4091,'MN',3:18:59
+26,2197,Minneapolis,130 / 914,Zel Johnston,482 / 7490,M,406 / 4091,'MN',3:19:04
+24,2254,Des Moines,131 / 914,Steven Dado,496 / 7490,M,413 / 4091,'IA',3:19:33
+26,2726,Belvidere,132 / 914,Craig Riccardo,503 / 7490,M,417 / 4091,'IL',3:19:45
+27,1231,Brooklyn Park,133 / 914,Mark Jeddeloh,505 / 7490,M,419 / 4091,'MN',3:19:49
+26,1593,Bothell,134 / 914,Colton Kanstrup,506 / 7490,M,420 / 4091,'WA',3:19:50
+29,1304,Eden Prairie,135 / 914,Kyle Hall,509 / 7490,M,422 / 4091,'MN',3:19:51
+28,1575,Portland,136 / 914,Brett Jensen,510 / 7490,M,423 / 4091,'ME',3:19:52
+22,2529,Minneapolis,137 / 914,Gus Metzdorff,514 / 7490,M,427 / 4091,'MN',3:20:07
+28,3521,Chaska,138 / 914,Jonathan Vinson,519 / 7490,M,432 / 4091,'MN',3:20:19
+22,2976,Rochester,139 / 914,Adam Rahn,520 / 7490,M,433 / 4091,'MN',3:20:19
+26,3064,Minneapolis,140 / 914,Kyle Engen,539 / 7490,M,448 / 4091,'MN',3:21:00
+25,1404,St Paul,141 / 914,Craig Huhtala,541 / 7490,M,450 / 4091,'MN',3:21:04
+28,3396,Minneapolis,142 / 914,Sean Breid,542 / 7490,M,451 / 4091,'MN',3:21:06
+22,3077,Owatonna,143 / 914,Trever Schwichtenberg,543 / 7490,M,452 / 4091,'MN',3:21:09
+29,2013,Goodveiw,144 / 914,Mike Walentiny,544 / 7490,M,453 / 4091,'MN',3:21:12
+25,1186,Minneapolis,145 / 914,Richard Zarnoch,549 / 7490,M,456 / 4091,'MN',3:21:23
+22,3769,Eden Prairie,146 / 914,Shashidhar Sudini,550 / 7490,M,457 / 4091,'MN',3:21:25
+29,1910,St Louis Park,147 / 914,Benjamin Drexler,567 / 7490,M,473 / 4091,'MN',3:21:52
+29,2762,Ocala,148 / 914,Michael Haynes,568 / 7490,M,474 / 4091,'FL',3:21:53
+25,1308,St Paul,149 / 914,Ryan Cook,569 / 7490,M,475 / 4091,'MN',3:22:09
+23,2015,Springfield,150 / 914,Luke Wittman,570 / 7490,M,476 / 4091,'IL',3:22:09
+26,1765,Minneapolis,151 / 914,Colin Rouser,572 / 7490,M,478 / 4091,'MN',3:22:11
+29,3392,New York,152 / 914,Andy Sonnesyn,586 / 7490,M,486 / 4091,'NY',3:22:48
+29,2428,Milwaukee,153 / 914,Joseph Campbell,588 / 7490,M,488 / 4091,'WI',3:22:59
+26,3874,Altoona,154 / 914,Garrett Hrubesch,592 / 7490,M,492 / 4091,'WI',3:23:06
+29,2050,Sartell,155 / 914,Benjamin Trnka,593 / 7490,M,493 / 4091,'MN',3:23:06
+27,1416,Woodbury,156 / 914,Andrew Selseth,594 / 7490,M,494 / 4091,'MN',3:23:11
+25,3341,New York,157 / 914,Alexander Clark,596 / 7490,M,495 / 4091,'NY',3:23:13
+25,1602,Minneapolis,158 / 914,Nik Sell,608 / 7490,M,504 / 4091,'MN',3:23:40
+29,3107,Minneapolis,159 / 914,Kyle Nickodem,611 / 7490,M,506 / 4091,'MN',3:23:44
+29,3243,Minneapolis,160 / 914,Alex Calof,613 / 7490,M,508 / 4091,'MN',3:23:46
+26,2745,Ozark,161 / 914,Joseph Esch,614 / 7490,M,509 / 4091,'MO',3:23:48
+26,1154,St Louis Park,162 / 914,Chris Stevermer,617 / 7490,M,512 / 4091,'MN',3:23:56
+26,3414,Bel Aire,163 / 914,Mark Burrus,619 / 7490,M,514 / 4091,'KS',3:23:59
+24,3106,St Paul,164 / 914,Ben Kollaja,629 / 7490,M,522 / 4091,'MN',3:24:18
+26,2078,Golden Valley,165 / 914,Adam Depaolis,632 / 7490,M,523 / 4091,'MN',3:24:28
+28,3574,Minneapolis,166 / 914,Daniel Maxbauer,639 / 7490,M,530 / 4091,'MN',3:24:49
+22,2018,St Paul,167 / 914,Joseph Peacock,640 / 7490,M,531 / 4091,'MN',3:24:53
+22,2520,Maple Plain,168 / 914,Nick Lowery,641 / 7490,M,532 / 4091,'MN',3:24:54
+28,1617,Edina,169 / 914,Jack Jorgensen,646 / 7490,M,536 / 4091,'MN',3:25:11
+28,3005,Indianapaolis,170 / 914,Curtis Ingram,654 / 7490,M,543 / 4091,'IL',3:25:30
+25,3642,Bloomington,171 / 914,Sacha Broccard,662 / 7490,M,548 / 4091,'MN',3:25:56
+23,2426,New York,172 / 914,John McGinn,665 / 7490,M,551 / 4091,'NY',3:26:01
+28,3519,Shoreview,173 / 914,Jim Ebben,670 / 7490,M,553 / 4091,'MN',3:26:04
+29,3076,Cleveland,174 / 914,Joshua Popelka,672 / 7490,M,555 / 4091,'OH',3:26:08
+28,2247,Willowick,175 / 914,Jack Hay,679 / 7490,M,562 / 4091,'OH',3:26:22
+22,2895,Duluth,176 / 914,Dan Rother,684 / 7490,M,566 / 4091,'MN',3:26:26
+27,2434,Rochester,177 / 914,David Grunst,691 / 7490,M,572 / 4091,'MN',3:26:44
+28,1662,Golden Valley,178 / 914,Brett Danielson,693 / 7490,M,574 / 4091,'MN',3:26:49
+27,3665,Rochester,179 / 914,Ian Cameron,697 / 7490,M,576 / 4091,'MN',3:27:02
+23,2758,Sartell,180 / 914,Matthew Davis,698 / 7490,M,577 / 4091,'MN',3:27:03
+28,2962,Minneapolis,181 / 914,Ben Hunt,702 / 7490,M,579 / 4091,'MN',3:27:08
+29,3116,Onalaska,182 / 914,Nathan Bahr,704 / 7490,M,581 / 4091,'WI',3:27:10
+29,2841,San Jose,183 / 914,James Dixon,707 / 7490,M,583 / 4091,'CA',3:27:19
+26,2090,Bogota,184 / 914,Manuel Contreras,712 / 7490,M,586 / 4091,'',3:27:24
+29,5824,Minneapolis,185 / 914,Eric Chen,716 / 7490,M,589 / 4091,'MN',3:27:28
+28,1758,Menasha,186 / 914,Joseph Dehaan,721 / 7490,M,594 / 4091,'WI',3:27:34
+26,3088,Minnetonka,187 / 914,Jonathan Hackbart,723 / 7490,M,596 / 4091,'MN',3:27:41
+22,3532,Minneapolis,188 / 914,Trevor Anderson,726 / 7490,M,598 / 4091,'MN',3:27:48
+28,1271,Eagan,189 / 914,Andrew Dallmann,728 / 7490,M,599 / 4091,'MN',3:27:51
+24,2370,Farmington,190 / 914,Justin Rees,729 / 7490,M,600 / 4091,'MN',3:27:51
+22,1727,Shoreview,191 / 914,Thomas McCann,734 / 7490,M,603 / 4091,'MN',3:28:01
+27,2534,Minneapolis,192 / 914,Garret Thiltgen,736 / 7490,M,604 / 4091,'MN',3:28:11
+29,3434,Richfield,193 / 914,Paul Beggs,745 / 7490,M,611 / 4091,'MN',3:28:25
+28,3472,Oak Park Heights,194 / 914,Zachary Lukas,746 / 7490,M,612 / 4091,'MN',3:28:26
+29,1452,Chicago,195 / 914,David Ehrenreich,749 / 7490,M,615 / 4091,'IL',3:28:30
+29,3391,Minneapolis,196 / 914,Mark Grindy,756 / 7490,M,621 / 4091,'MN',3:28:42
+24,1738,Oshkosh,197 / 914,Mark Gruendeman,757 / 7490,M,622 / 4091,'WI',3:28:42
+26,3552,Minneapolis,198 / 914,Sam Winter,775 / 7490,M,633 / 4091,'MN',3:29:05
+28,3724,Winkler,199 / 914,Kevin Harder,786 / 7490,M,641 / 4091,'MB',3:29:23
+26,1397,New York,200 / 914,David Neuburger,793 / 7490,M,647 / 4091,'NY',3:29:40
+25,1844,Minneapolis,201 / 914,Philip Kissling,794 / 7490,M,648 / 4091,'MN',3:29:41
+26,1999,Chicago,202 / 914,Andrew Dabson,798 / 7490,M,651 / 4091,'IL',3:29:45
+27,2694,Chanhassen,203 / 914,Gautam Kandlikar,799 / 7490,M,652 / 4091,'MN',3:29:47
+28,2457,Rochester,204 / 914,Eric Klein,800 / 7490,M,653 / 4091,'MN',3:29:49
+26,3535,Minneapolis,205 / 914,Jason Janzen,801 / 7490,M,654 / 4091,'MN',3:29:50
+27,2472,Stillwater,206 / 914,Joel Braden,835 / 7490,M,673 / 4091,'MN',3:30:57
+29,3386,Traverse City,207 / 914,Adam Root,837 / 7490,M,674 / 4091,'MI',3:30:59
+25,1221,Minneapolis,208 / 914,Nick Stepka,852 / 7490,M,682 / 4091,'MN',3:31:24
+24,1233,Mound,209 / 914,Corey Cushing,856 / 7490,M,685 / 4091,'MN',3:31:29
+23,3466,Minneapolis,210 / 914,Chase Nier,858 / 7490,M,687 / 4091,'MN',3:31:34
+27,2800,Bloomington,211 / 914,Matthew Merchant,864 / 7490,M,693 / 4091,'MN',3:31:42
+26,1838,Atlanta,212 / 914,Tyler Droll,869 / 7490,M,697 / 4091,'GA',3:31:47
+26,6220,Plymouth,213 / 914,Adam Ellis,874 / 7490,M,702 / 4091,'MN',3:31:56
+27,3875,Green Bay,214 / 914,Justin Nooker,884 / 7490,M,709 / 4091,'WI',3:32:09
+26,2996,Kenosha,215 / 914,Brian Saksa,897 / 7490,M,719 / 4091,'WI',3:32:23
+25,2315,Rosemount,216 / 914,Samuel Gullickson,904 / 7490,M,723 / 4091,'MN',3:32:28
+24,1296,Minneapolis,217 / 914,Kyle Froeber,906 / 7490,M,725 / 4091,'MN',3:32:33
+24,3286,Columbus,218 / 914,Ryan Miksch,915 / 7490,M,733 / 4091,'NE',3:32:45
+28,1259,St Paul,219 / 914,Ben Sommerfeld,936 / 7490,M,746 / 4091,'MN',3:33:14
+29,1568,Burnsville,220 / 914,Timothy Gleason,938 / 7490,M,748 / 4091,'MN',3:33:15
+25,2072,St Paul,221 / 914,Nicholas Stenske,946 / 7490,M,753 / 4091,'MN',3:33:28
+22,3222,Andover,222 / 914,Joseph Picardi,949 / 7490,M,755 / 4091,'MN',3:33:32
+22,3938,Princeton,223 / 914,Nathaniel Hoffer,954 / 7490,M,759 / 4091,'MN',3:33:36
+24,2988,Chicago,224 / 914,Paul Fredrickson,959 / 7490,M,763 / 4091,'IL',3:33:41
+25,3569,Greenville,225 / 914,Taylor Archer,960 / 7490,M,764 / 4091,'TX',3:33:41
+22,4885,St Paul,226 / 914,Patrick Hennessey,969 / 7490,M,768 / 4091,'MN',3:33:51
+29,1415,St Paul,227 / 914,Todd Schuldt,972 / 7490,M,771 / 4091,'MN',3:33:54
+25,1618,Minneapolis,228 / 914,Samuel Fransen,975 / 7490,M,773 / 4091,'MN',3:34:00
+28,2844,Fargo,229 / 914,Daniel Ivan Velasco,976 / 7490,M,774 / 4091,'ND',3:34:00
+24,3112,Duluth,230 / 914,Grant Den Herder,981 / 7490,M,777 / 4091,'MN',3:34:04
+27,3447,Minneapolis,231 / 914,Christopher Sorenson,1000 / 7490,M,787 / 4091,'MN',3:34:36
+24,2748,Hudson,232 / 914,Luke Wusterbarth,1005 / 7490,M,791 / 4091,'WI',3:34:41
+25,11315,Coon Rapids,233 / 914,Trevor Daniels,1007 / 7490,M,792 / 4091,'MN',3:34:46
+25,3346,Minnetonka,234 / 914,Ryan Mord,1012 / 7490,M,795 / 4091,'MN',3:34:53
+22,3900,Minneapolis,235 / 914,Gavin Arnold,1019 / 7490,M,801 / 4091,'MN',3:35:16
+25,3792,Minneapolis,236 / 914,Ben Bauch,1025 / 7490,M,805 / 4091,'MN',3:35:38
+26,1587,Phoenix,237 / 914,Alex Stratton,1030 / 7490,M,808 / 4091,'AZ',3:35:50
+22,1414,Maplewood,238 / 914,Jackson Strand,1036 / 7490,M,813 / 4091,'MN',3:35:55
+23,2526,St Cloud,239 / 914,Alex Halvorson,1038 / 7490,M,814 / 4091,'MN',3:35:57
+24,1142,Minneapolis,240 / 914,Matt Nass,1045 / 7490,M,820 / 4091,'MN',3:36:13
+27,2633,St Paul,241 / 914,Cody Lensing,1053 / 7490,M,826 / 4091,'MN',3:36:21
+28,1916,Lake In The Hills,242 / 914,Matthew Zaluckyj,1058 / 7490,M,828 / 4091,'IL',3:36:34
+24,1964,Oakdale,243 / 914,Steven Olawsky,1080 / 7490,M,842 / 4091,'MN',3:37:07
+24,1058,Minneapolis,244 / 914,Andrew Banman,1084 / 7490,M,845 / 4091,'MN',3:37:11
+29,2681,Minneapolis,245 / 914,Matthew Callanan,1093 / 7490,M,852 / 4091,'IA',3:37:19
+25,1546,St Paul,246 / 914,John Coyne,1110 / 7490,M,867 / 4091,'MN',3:37:48
+24,1948,Edina,247 / 914,Tyler Satoh,1113 / 7490,M,870 / 4091,'MN',3:37:55
+22,2659,Eau Claire,248 / 914,Isaac Mousel,1114 / 7490,M,871 / 4091,'WI',3:37:56
+28,1008,Minneapolis,249 / 914,Michael Cowger,1117 / 7490,M,873 / 4091,'MN',3:37:58
+27,1522,Minneapolis,250 / 914,Samuel Hemmerich,1118 / 7490,M,874 / 4091,'MN',3:37:58
+23,2367,Brooklyn,251 / 914,Ryan Knutsen,1132 / 7490,M,883 / 4091,'NY',3:38:21
+24,2374,Cedar Falls,252 / 914,Taylor Ringgenberg,1142 / 7490,M,892 / 4091,'IA',3:38:38
+26,5794,Marshall,253 / 914,Santiago Continenza,1144 / 7490,M,893 / 4091,'MN',3:38:38
+23,3378,Minneapolis,254 / 914,Luke Peterson,1152 / 7490,M,898 / 4091,'MN',3:38:46
+24,2620,Rochester,255 / 914,Weston Lofdahl,1154 / 7490,M,899 / 4091,'MN',3:38:49
+27,1882,Burnsville,256 / 914,Chris Bruzda,1160 / 7490,M,903 / 4091,'MN',3:38:54
+27,3726,Richfield,257 / 914,Josh Phenow,1162 / 7490,M,905 / 4091,'MN',3:39:00
+26,1994,Hudson,258 / 914,Jacob Pittman,1166 / 7490,M,908 / 4091,'WI',3:39:03
+26,2609,Dallas,259 / 914,Zach Boven,1168 / 7490,M,910 / 4091,'TX',3:39:09
+27,1862,Fitchburg,260 / 914,James Wanke,1169 / 7490,M,911 / 4091,'WI',3:39:10
+23,2986,Cambridge,261 / 914,Alexander McQuown,1173 / 7490,M,914 / 4091,'MA',3:39:18
+29,1833,Houston,262 / 914,Benjamin Schneider,1178 / 7490,M,918 / 4091,'TX',3:39:29
+29,3853,St Paul,263 / 914,Jonathan Seaberg,1181 / 7490,M,921 / 4091,'MN',3:39:33
+22,3781,Amery,264 / 914,Ethan Dado,1183 / 7490,M,922 / 4091,'WI',3:39:34
+27,3001,Little Canada,265 / 914,Logan Seipel,1197 / 7490,M,933 / 4091,'MN',3:39:51
+24,1487,Mexico City,266 / 914,Xavier Mendez,1204 / 7490,M,938 / 4091,'',3:40:07
+25,3437,Hopkins,267 / 914,Joshua Stromgren,1205 / 7490,M,939 / 4091,'MN',3:40:07
+24,1065,Richfield,268 / 914,Jordan McGowan,1225 / 7490,M,947 / 4091,'MN',3:40:32
+24,2368,Weston,269 / 914,Paavan Chopra,1226 / 7490,M,948 / 4091,'CT',3:40:34
+25,5953,Chicago,270 / 914,Ben Sloan,1241 / 7490,M,956 / 4091,'IL',3:40:47
+22,6547,Pine Island,271 / 914,Paul Kohner,1250 / 7490,M,963 / 4091,'MN',3:41:01
+28,2806,Watertown,272 / 914,Ivan Aho,1252 / 7490,M,965 / 4091,'SD',3:41:06
+28,2939,St Paul,273 / 914,Brandon Kasper,1256 / 7490,M,968 / 4091,'MN',3:41:11
+22,2341,Maple Grove,274 / 914,Zachary Lang,1259 / 7490,M,969 / 4091,'MN',3:41:15
+27,1034,North St Paul,275 / 914,Travis Hackley,1268 / 7490,M,973 / 4091,'MN',3:41:28
+27,3933,Duluth,276 / 914,Nathan Boone,1273 / 7490,M,977 / 4091,'MN',3:41:33
+29,2400,New York,277 / 914,Michael Massey,1276 / 7490,M,980 / 4091,'NY',3:41:40
+25,3714,Richfield,278 / 914,Jesse Phenow,1283 / 7490,M,982 / 4091,'MN',3:41:49
+22,3533,Edina,279 / 914,Kyle Staunton,1288 / 7490,M,984 / 4091,'MN',3:41:52
+29,3420,Lino Lakes,280 / 914,Cody Wilde,1292 / 7490,M,986 / 4091,'MN',3:41:55
+29,6358,Golden Valley,281 / 914,Evan Swanson,1293 / 7490,M,987 / 4091,'MN',3:41:56
+27,5637,Brooklyn Park,282 / 914,Nick Tetzloff,1299 / 7490,M,991 / 4091,'MN',3:42:03
+27,3883,Lakeville,283 / 914,Ryan Webster,1303 / 7490,M,993 / 4091,'MN',3:42:06
+29,1837,Alexandria,284 / 914,Bryan Droll,1321 / 7490,M,1005 / 4091,'VA',3:42:24
+28,1670,Shoreview,285 / 914,Bentson Brezicka,1324 / 7490,M,1007 / 4091,'MN',3:42:26
+27,2153,Williamsburg,286 / 914,Nathan King,1332 / 7490,M,1012 / 4091,'IA',3:42:34
+28,3788,Minneapolis,287 / 914,Eric Eickhof,1343 / 7490,M,1016 / 4091,'MN',3:42:51
+24,1884,St Anthony,288 / 914,John Petersen,1352 / 7490,M,1021 / 4091,'MN',3:43:07
+26,1234,Plymouth,289 / 914,Michael Kasinkas,1367 / 7490,M,1027 / 4091,'MN',3:43:24
+24,3494,Park Rapids,290 / 914,Zachary Haugland,1373 / 7490,M,1033 / 4091,'MN',3:43:27
+27,2316,Minneapolis,291 / 914,Andrew Wier,1377 / 7490,M,1035 / 4091,'MN',3:43:32
+24,5855,Eden Prairie,292 / 914,Shane Harjes,1384 / 7490,M,1039 / 4091,'MN',3:43:38
+27,3342,Long Island City,293 / 914,Devin Edgell,1385 / 7490,M,1040 / 4091,'NY',3:43:39
+24,1095,St Paul,294 / 914,John Wulterkens,1404 / 7490,M,1050 / 4091,'MN',3:43:59
+23,3191,Cromberg,295 / 914,Justin Lusk,1406 / 7490,M,1051 / 4091,'CA',3:44:00
+28,1548,Denver,296 / 914,Joshua Fallon,1407 / 7490,M,1052 / 4091,'CO',3:44:00
+29,1077,Eden Prairie,297 / 914,Adam Mika,1409 / 7490,M,1054 / 4091,'MN',3:44:06
+24,1015,St Paul,298 / 914,Nathaniel Lawdenski,1413 / 7490,M,1056 / 4091,'MN',3:44:11
+27,4059,Minneapolis,299 / 914,David Pearson,1419 / 7490,M,1060 / 4091,'MN',3:44:16
+28,11208,Little Rock,300 / 914,Nick Longfellow,1424 / 7490,M,1062 / 4091,'AR',3:44:21
+25,5057,Pearland,301 / 914,Michael Mantas,1433 / 7490,M,1068 / 4091,'TX',3:44:34
+24,1275,Tonka Bay,302 / 914,Nick Coughlin,1455 / 7490,M,1079 / 4091,'MN',3:44:51
+28,1226,St Louis Park,303 / 914,David Skluzacek,1461 / 7490,M,1080 / 4091,'MN',3:44:59
+23,6892,Staples,304 / 914,Cyris Eagle Tail,1464 / 7490,M,1083 / 4091,'MN',3:45:04
+23,1061,Minnetonka,305 / 914,Andrew Schwebach,1465 / 7490,M,1084 / 4091,'MN',3:45:04
+23,3669,Edina,306 / 914,Douglas Nyabioge,1475 / 7490,M,1091 / 4091,'MN',3:45:24
+28,1408,St Louis Park,307 / 914,Brent Putz,1482 / 7490,M,1097 / 4091,'MN',3:45:34
+22,6176,St Paul,308 / 914,Nick Sorenson,1519 / 7490,M,1121 / 4091,'MN',3:46:12
+27,3060,St Paul,309 / 914,Noah Burgess,1524 / 7490,M,1125 / 4091,'MN',3:46:16
+27,6140,Kenosha,310 / 914,Garrett Ryynanen,1530 / 7490,M,1127 / 4091,'WI',3:46:24
+25,1524,Rochester,311 / 914,Joseph Gottwald,1560 / 7490,M,1145 / 4091,'MN',3:47:13
+28,5671,New Richmond,312 / 914,Zach Johnston,1579 / 7490,M,1160 / 4091,'WI',3:47:43
+24,5543,Farmington,313 / 914,Luke Brevik,1585 / 7490,M,1165 / 4091,'MN',3:47:48
+25,1238,St Paul,314 / 914,Lucas Haug,1594 / 7490,M,1172 / 4091,'MN',3:48:06
+27,5899,Minneapolis,315 / 914,Anthony Holewinski,1598 / 7490,M,1174 / 4091,'MN',3:48:11
+26,3585,Bloomington,316 / 914,Steven Sletten,1600 / 7490,M,1175 / 4091,'MN',3:48:14
+28,1392,Minneapolis,317 / 914,Terrence Hornsby,1601 / 7490,M,1176 / 4091,'MN',3:48:14
+22,2544,Altoona,318 / 914,Dedric Hohman,1619 / 7490,M,1186 / 4091,'WI',3:48:34
+24,2182,Mineapolis,319 / 914,Austen Miller,1626 / 7490,M,1192 / 4091,'MN',3:48:37
+29,1460,Chicago,320 / 914,Edward Franks,1655 / 7490,M,1212 / 4091,'IL',3:49:06
+29,6202,Rochester,321 / 914,Mohammed Alsuraih,1657 / 7490,M,1213 / 4091,'MN',3:49:07
+28,5596,White Bear Lake,322 / 914,Brian Nevala,1659 / 7490,M,1215 / 4091,'MN',3:49:08
+29,5474,Minneapolis,323 / 914,Brett Fritze,1665 / 7490,M,1220 / 4091,'MN',3:49:12
+27,5000,Stevens Point,324 / 914,Everett Beck,1668 / 7490,M,1222 / 4091,'WI',3:49:16
+27,3449,Minneapolis,325 / 914,Kurtis Rahkola,1689 / 7490,M,1234 / 4091,'MN',3:49:40
+25,2890,Washington,326 / 914,Nick Kleese,1697 / 7490,M,1238 / 4091,'IA',3:49:45
+28,3960,Golden,327 / 914,Erik Sanders,1701 / 7490,M,1241 / 4091,'CO',3:49:48
+29,3482,Sioux Falls,328 / 914,David Missal,1704 / 7490,M,1243 / 4091,'SD',3:49:50
+27,5556,St Paul,329 / 914,Jacob Wittman,1713 / 7490,M,1248 / 4091,'MN',3:50:14
+23,2513,Sauk Centre,330 / 914,Keenan Pearson,1717 / 7490,M,1250 / 4091,'MN',3:50:17
+26,5782,Hopkins,331 / 914,Reed Fleming,1741 / 7490,M,1262 / 4091,'MN',3:50:43
+28,6574,St Paul,332 / 914,Daniel Tierney,1742 / 7490,M,1263 / 4091,'MN',3:50:45
+25,6218,Minneapolis,333 / 914,Nick Hoverstad,1743 / 7490,M,1264 / 4091,'MN',3:50:48
+26,4794,Minneapolis,334 / 914,Adam Maidman,1752 / 7490,M,1271 / 4091,'MN',3:50:57
+23,5631,Lino Lakes,335 / 914,Jared Nelson,1760 / 7490,M,1276 / 4091,'MN',3:51:08
+24,2445,Duluth,336 / 914,Aden Casey,1765 / 7490,M,1279 / 4091,'MN',3:51:09
+27,6022,Buffalo,337 / 914,Brian Wills,1779 / 7490,M,1290 / 4091,'MN',3:51:28
+27,4440,Minneapolis,338 / 914,Andrew Maher,1784 / 7490,M,1295 / 4091,'MN',3:51:32
+28,8191,St Paul,339 / 914,Ryan McDonald,1785 / 7490,M,1296 / 4091,'MN',3:51:34
+29,3044,Salem,340 / 914,Andrew Fudge,1786 / 7490,M,1297 / 4091,'OR',3:51:35
+29,4025,St Ppaul,341 / 914,Irwin Ramirez,1804 / 7490,M,1305 / 4091,'MN',3:51:52
+26,6587,Minneapolis,342 / 914,John Westerhaus,1811 / 7490,M,1308 / 4091,'MN',3:51:58
+24,1121,West St Paul,343 / 914,Arjun Sridhar,1817 / 7490,M,1311 / 4091,'MN',3:52:09
+28,2770,Mankato,344 / 914,Eric Fitzsimmons,1821 / 7490,M,1313 / 4091,'MN',3:52:14
+25,3985,St Louis Park,345 / 914,David Hoebelheinrich,1826 / 7490,M,1318 / 4091,'MN',3:52:19
+27,2536,St Paul,346 / 914,Sean Dembowski,1837 / 7490,M,1326 / 4091,'MN',3:52:25
+24,6157,Boston,347 / 914,John Evans,1841 / 7490,M,1329 / 4091,'MA',3:52:33
+26,4530,Sioux Falls,348 / 914,Adam Kasparek,1847 / 7490,M,1331 / 4091,'SD',3:52:37
+27,1240,Minneapolis,349 / 914,Eugene Bellin,1849 / 7490,M,1332 / 4091,'MN',3:52:40
+27,6217,Nashwauk,350 / 914,Scott Haugen,1854 / 7490,M,1334 / 4091,'MN',3:52:48
+27,2084,Rosemount,351 / 914,Danial Hannover,1877 / 7490,M,1346 / 4091,'MN',3:53:07
+22,4659,Minneapolis,352 / 914,Cole Johnson,1881 / 7490,M,1348 / 4091,'MN',3:53:16
+27,7074,Honolulu,353 / 914,Seth Mathis,1883 / 7490,M,1349 / 4091,'HI',3:53:17
+27,1926,Woodbury,354 / 914,Kevin Huseby,1891 / 7490,M,1353 / 4091,'MN',3:53:24
+26,2000,Minneapolis,355 / 914,Nathan Platter,1902 / 7490,M,1358 / 4091,'MN',3:53:36
+23,2643,Woodville,356 / 914,Matthew Pillman,1904 / 7490,M,1359 / 4091,'WI',3:53:38
+28,2725,Orion,357 / 914,Kyle Beczkiewicz,1907 / 7490,M,1361 / 4091,'MI',3:53:40
+25,4991,St Paul,358 / 914,Niranjan Sathianathen,1910 / 7490,M,1364 / 4091,'MN',3:53:42
+27,1688,St Paul,359 / 914,Kevin Mack,1914 / 7490,M,1368 / 4091,'MN',3:53:45
+23,4829,Arden Hills,360 / 914,Brandon Johnson,1925 / 7490,M,1373 / 4091,'MN',3:53:51
+25,1681,Woodbury,361 / 914,Brady Mahoney,1929 / 7490,M,1376 / 4091,'MN',3:53:54
+26,5673,Plymouth,362 / 914,Tim Druyos,1945 / 7490,M,1383 / 4091,'MN',3:54:04
+27,2575,Maplewood,363 / 914,Ethan Vogel,1954 / 7490,M,1389 / 4091,'MN',3:54:16
+25,5745,Minneapolis,364 / 914,Christian Jolicoeur,1958 / 7490,M,1393 / 4091,'MN',3:54:18
+28,4154,Minnetrista,365 / 914,Daniel Schmidt,1969 / 7490,M,1397 / 4091,'MN',3:54:28
+29,6380,Rosemount,366 / 914,Tyler Packer,1971 / 7490,M,1399 / 4091,'MN',3:54:31
+23,7197,Hastings,367 / 914,Will Patzke,1972 / 7490,M,1400 / 4091,'MN',3:54:32
+28,6648,Minneapolis,368 / 914,Rabindra Khadka,1973 / 7490,M,1401 / 4091,'MN',3:54:33
+27,6763,Savage,369 / 914,Christopher Wagner,1975 / 7490,M,1403 / 4091,'MN',3:54:33
+27,1227,St Louis Park,370 / 914,Nate Vinoski,1994 / 7490,M,1414 / 4091,'MN',3:54:49
+22,6622,Golden Valley,371 / 914,Travis Bode,2002 / 7490,M,1417 / 4091,'MN',3:54:54
+26,8434,Minneapolis,372 / 914,Jeffrey Hong,2015 / 7490,M,1424 / 4091,'MN',3:55:06
+24,3947,Minneapolis,373 / 914,Jose Caballero Ciciolli,2019 / 7490,M,1426 / 4091,'MN',3:55:07
+24,3793,Minneapolis,374 / 914,Antonio Caudillo,2027 / 7490,M,1431 / 4091,'MN',3:55:17
+26,5549,Apple Valley,375 / 914,Sean Burke,2036 / 7490,M,1435 / 4091,'MN',3:55:25
+25,9276,Brunswick,376 / 914,Jack Messerly,2047 / 7490,M,1444 / 4091,'ME',3:55:34
+24,7237,Robbinsdale,377 / 914,Brian Porter,2055 / 7490,M,1451 / 4091,'MN',3:55:40
+25,1451,Davenport,378 / 914,Anton Stork,2063 / 7490,M,1455 / 4091,'IA',3:55:49
+29,6021,Brooklyn,379 / 914,Steve Frost,2066 / 7490,M,1458 / 4091,'NY',3:55:52
+27,3479,Brooklyn,380 / 914,Alexander Cornhill,2072 / 7490,M,1463 / 4091,'NY',3:55:54
+22,1946,Minneapolis,381 / 914,Peter Dirks,2078 / 7490,M,1467 / 4091,'MN',3:55:57
+29,2170,St Paul,382 / 914,Ryan Vanhattum,2080 / 7490,M,1469 / 4091,'MN',3:55:59
+22,5815,Duluth,383 / 914,Jacob Bray,2089 / 7490,M,1474 / 4091,'MN',3:56:08
+26,3742,Minneapolis,384 / 914,Will Johnson,2093 / 7490,M,1476 / 4091,'MN',3:56:11
+23,4389,St Paul,385 / 914,Alex Odom,2099 / 7490,M,1479 / 4091,'MN',3:56:15
+26,4317,Chandler,386 / 914,Angel Cruz,2101 / 7490,M,1481 / 4091,'AZ',3:56:17
+29,6942,Minneapolis,387 / 914,Ben Braaten,2102 / 7490,M,1482 / 4091,'MN',3:56:18
+25,5540,Eden Prairie,388 / 914,Landon Brodersen,2107 / 7490,M,1486 / 4091,'MN',3:56:23
+22,2115,Duluth,389 / 914,Connor Squires,2114 / 7490,M,1490 / 4091,'MN',3:56:28
+28,3419,Minneapolis,390 / 914,Michael Carlson,2126 / 7490,M,1495 / 4091,'MN',3:56:33
+24,5139,New Hope,391 / 914,Matt Elder,2134 / 7490,M,1501 / 4091,'MN',3:56:40
+29,11484,Chicago,392 / 914,Frank Bisceglie,2143 / 7490,M,1504 / 4091,'IL',3:56:48
+26,7278,Shakopee,393 / 914,Kyle Glynn,2144 / 7490,M,1505 / 4091,'MN',3:56:49
+28,1972,Fridley,394 / 914,James Sintler,2154 / 7490,M,1511 / 4091,'MN',3:56:58
+26,6471,St Paul,395 / 914,Cameron Quie,2162 / 7490,M,1514 / 4091,'MN',3:57:02
+27,5245,Minneapolis,396 / 914,Eric Salter,2166 / 7490,M,1516 / 4091,'MN',3:57:04
+27,2154,Mankato,397 / 914,Brandon Boeck,2170 / 7490,M,1520 / 4091,'MN',3:57:06
+25,4068,Roseville,398 / 914,Timothy Allman,2173 / 7490,M,1522 / 4091,'MN',3:57:08
+26,1209,Holmen,399 / 914,Andrew Fiegen,2178 / 7490,M,1525 / 4091,'WI',3:57:10
+25,5274,Madison,400 / 914,Kevin Mayer,2182 / 7490,M,1527 / 4091,'WI',3:57:15
+28,4381,Minneapolis,401 / 914,Andrew Ives,2185 / 7490,M,1530 / 4091,'MN',3:57:18
+27,10556,Atlanta,402 / 914,Daniel Collins-Wildman,2198 / 7490,M,1539 / 4091,'GA',3:57:33
+23,5984,Wheaton,403 / 914,Andrew Suk,2201 / 7490,M,1542 / 4091,'IL',3:57:36
+29,3187,Minneapolis,404 / 914,Matthew Harren,2211 / 7490,M,1547 / 4091,'MN',3:57:40
+22,4386,Farmington,405 / 914,Jake Westfield,2219 / 7490,M,1552 / 4091,'MN',3:57:45
+28,5494,St Paul,406 / 914,Robert Sparrow,2247 / 7490,M,1569 / 4091,'MN',3:58:11
+26,1191,Richfield,407 / 914,Mitchell Nass,2255 / 7490,M,1573 / 4091,'MN',3:58:18
+27,2253,St Paul,408 / 914,Clark Weyrauch,2262 / 7490,M,1576 / 4091,'MN',3:58:24
+29,7078,Dubuque,409 / 914,Kyle Burke,2267 / 7490,M,1579 / 4091,'IA',3:58:29
+26,3766,Woodbury,410 / 914,Andrew Broshat,2280 / 7490,M,1591 / 4091,'MN',3:58:39
+25,1805,Minneapolis,411 / 914,Colin Veerman,2285 / 7490,M,1593 / 4091,'MN',3:58:42
+27,6429,Fargo,412 / 914,Colton Hanson,2288 / 7490,M,1595 / 4091,'ND',3:58:43
+29,1619,Coon Rapids,413 / 914,Andrew Pederson,2289 / 7490,M,1596 / 4091,'MN',3:58:44
+29,2123,Lakeville,414 / 914,Andrew Nelson,2322 / 7490,M,1619 / 4091,'MN',3:59:11
+29,1014,Eden Prairie,415 / 914,Michael Leclair,2330 / 7490,M,1625 / 4091,'MN',3:59:19
+27,4556,Minneapolis,416 / 914,Jeffrey Hanson,2349 / 7490,M,1635 / 4091,'MN',3:59:34
+29,6570,Otsego,417 / 914,Jacob Fimon,2352 / 7490,M,1637 / 4091,'MN',3:59:35
+26,5774,Bismarck,418 / 914,Charles Keis,2360 / 7490,M,1643 / 4091,'ND',3:59:47
+23,7109,Minneapolis,419 / 914,Joe Donahoe,2375 / 7490,M,1652 / 4091,'MN',3:59:59
+26,1921,St Paul,420 / 914,Dane Pedersen,2382 / 7490,M,1655 / 4091,'MN',4:00:05
+25,1403,St Paul,421 / 914,Oscar Quintanilla,2390 / 7490,M,1659 / 4091,'MN',4:00:14
+23,1284,Farmington,422 / 914,Jack Buss,2406 / 7490,M,1667 / 4091,'MN',4:00:24
+26,4287,Minneapolis,423 / 914,Trevor Riles,2407 / 7490,M,1668 / 4091,'MN',4:00:28
+27,11006,Minneapolis,424 / 914,Saurav Talukdar,2418 / 7490,M,1676 / 4091,'MN',4:00:41
+24,2651,Hudson,425 / 914,Taylor Johnson,2425 / 7490,M,1680 / 4091,'WI',4:00:47
+28,9918,Boulder,426 / 914,Andrew Finanger,2430 / 7490,M,1683 / 4091,'CO',4:00:53
+26,2540,Minneapolis,427 / 914,Joseph Kornmann,2458 / 7490,M,1699 / 4091,'MN',4:01:24
+28,4392,San Ramon,428 / 914,Jimmy Zuegner,2469 / 7490,M,1705 / 4091,'CA',4:01:36
+23,5446,Chesterton,429 / 914,Jay Crots,2474 / 7490,M,1708 / 4091,'IN',4:01:39
+23,3573,St Louis Park,430 / 914,Kevin Foley,2475 / 7490,M,1709 / 4091,'MN',4:01:40
+28,4360,Rockville,431 / 914,Steven Dodge,2489 / 7490,M,1719 / 4091,'MD',4:01:54
+28,6899,New Brighton,432 / 914,Anthony Meyer,2494 / 7490,M,1721 / 4091,'MN',4:01:58
+23,3227,Hartland,433 / 914,Erik Altenburg,2506 / 7490,M,1728 / 4091,'WI',4:02:10
+24,1409,Minneapolis,434 / 914,Jake Damiani,2519 / 7490,M,1736 / 4091,'MN',4:02:27
+29,4152,Verona,435 / 914,Aaron Ranke,2524 / 7490,M,1739 / 4091,'WI',4:02:32
+27,5361,Lakeville,436 / 914,Thomas Blomberg,2528 / 7490,M,1741 / 4091,'MN',4:02:34
+23,4195,Minneapolis,437 / 914,Nels Haugen,2533 / 7490,M,1744 / 4091,'MN',4:02:37
+25,3155,St Paul,438 / 914,Clinton Billhorn,2546 / 7490,M,1750 / 4091,'MN',4:02:44
+27,6226,Minnetonka,439 / 914,Kevin Lewis,2554 / 7490,M,1756 / 4091,'MN',4:02:53
+25,1371,Fridley,440 / 914,Dmitriy Babashov,2562 / 7490,M,1759 / 4091,'MN',4:02:59
+23,3648,St Bonifacius,441 / 914,Mitchell Kern,2570 / 7490,M,1764 / 4091,'MN',4:03:04
+26,4854,Minneapolis,442 / 914,Connor Blacksher,2578 / 7490,M,1767 / 4091,'MN',4:03:11
+29,1633,St Paul,443 / 914,Nelson Vang,2579 / 7490,M,1768 / 4091,'MN',4:03:11
+29,4895,Casale Monferrato,444 / 914,Matteo Bonelli,2582 / 7490,M,1769 / 4091,'',4:03:13
+24,2221,Dubuque,445 / 914,Colin Strabala,2588 / 7490,M,1772 / 4091,'IA',4:03:20
+28,2972,Minnetonka,446 / 914,Sam Blank,2593 / 7490,M,1774 / 4091,'MN',4:03:25
+27,8214,St Paul,447 / 914,Caleb Kauss,2600 / 7490,M,1777 / 4091,'MN',4:03:33
+27,2625,Mt. Horeb,448 / 914,Lance Maerz,2610 / 7490,M,1784 / 4091,'WI',4:03:41
+28,4831,Dassel,449 / 914,Mark Kivisto,2612 / 7490,M,1786 / 4091,'MN',4:03:42
+25,10990,Plymouth,450 / 914,Patrick Pulles,2627 / 7490,M,1793 / 4091,'MN',4:03:51
+27,5005,Milwaukee,451 / 914,Sean Byers,2630 / 7490,M,1795 / 4091,'WI',4:03:51
+28,2798,Iowa City,452 / 914,Kevin Flynn,2635 / 7490,M,1798 / 4091,'IA',4:03:53
+26,4351,Chicago,453 / 914,Nick Severson,2654 / 7490,M,1807 / 4091,'IL',4:04:11
+27,2787,Cold Spring,454 / 914,Brett Anderson,2669 / 7490,M,1817 / 4091,'MN',4:04:20
+28,7293,Minneapolis,455 / 914,Charles Najt,2670 / 7490,M,1818 / 4091,'MN',4:04:22
+27,5929,St Paul,456 / 914,Chris Depauw,2679 / 7490,M,1825 / 4091,'MN',4:04:29
+28,2112,Eden Prairie,457 / 914,Stephen Brum,2682 / 7490,M,1826 / 4091,'MN',4:04:33
+23,2913,Minneapolis,458 / 914,Zachary Styx,2686 / 7490,M,1829 / 4091,'MN',4:04:36
+25,3861,Bloomington,459 / 914,Tony Haas,2705 / 7490,M,1841 / 4091,'MN',4:05:03
+27,1865,Duluth,460 / 914,Nicholas Johnson,2711 / 7490,M,1846 / 4091,'MN',4:05:10
+29,6197,St Cloud,461 / 914,Bradley Aasen,2712 / 7490,M,1847 / 4091,'MN',4:05:10
+22,6853,Litchfield,462 / 914,Cameron Sundmark,2720 / 7490,M,1850 / 4091,'MN',4:05:25
+24,3868,Burnsville,463 / 914,Tyler Patterson,2729 / 7490,M,1856 / 4091,'MN',4:05:36
+26,1740,Duluth,464 / 914,Andrew Haefner,2756 / 7490,M,1865 / 4091,'MN',4:06:15
+26,4205,Minneapolis,465 / 914,Sam Bailey-Seiler,2766 / 7490,M,1871 / 4091,'MN',4:06:26
+24,5962,Minneapolis,466 / 914,Daniel Rosenberg,2769 / 7490,M,1873 / 4091,'MN',4:06:29
+25,3880,Minneapolis,467 / 914,Tyler Storlie,2778 / 7490,M,1880 / 4091,'MN',4:06:44
+28,6756,Maplewood,468 / 914,He Lu,2780 / 7490,M,1881 / 4091,'MN',4:06:45
+27,3343,Arlington,469 / 914,Ryan Howick,2796 / 7490,M,1889 / 4091,'VA',4:07:06
+22,1302,Excelsior,470 / 914,Nick Schroeder,2797 / 7490,M,1890 / 4091,'MN',4:07:07
+28,2372,St Paul,471 / 914,Hans Rieckmann,2799 / 7490,M,1892 / 4091,'MN',4:07:13
+25,3590,Minneapolis,472 / 914,Alex Hessefort,2803 / 7490,M,1896 / 4091,'MN',4:07:22
+22,3098,Minneapolis,473 / 914,Tim Smoot,2819 / 7490,M,1902 / 4091,'MN',4:07:34
+25,6750,Minneapolis,474 / 914,Ryan Zeilinger,2822 / 7490,M,1905 / 4091,'MN',4:07:38
+29,2634,Minneapolis,475 / 914,Ben Vanderheyden,2833 / 7490,M,1911 / 4091,'MN',4:07:46
+22,9346,Eau Claire,476 / 914,Garrett Cropsey,2855 / 7490,M,1922 / 4091,'WI',4:08:08
+29,4889,Richfield,477 / 914,Jonathan Anders,2861 / 7490,M,1925 / 4091,'MN',4:08:18
+23,6077,Minneapolis,478 / 914,Michael Forster,2865 / 7490,M,1929 / 4091,'MN',4:08:22
+22,3162,Edina,479 / 914,Arin Arpinar,2878 / 7490,M,1934 / 4091,'MN',4:08:32
+28,4823,Chapel Hill,480 / 914,Alex Venning,2880 / 7490,M,1935 / 4091,'NC',4:08:35
+23,3238,Minneapolis,481 / 914,David Cook,2892 / 7490,M,1942 / 4091,'MN',4:08:44
+26,2877,Minneapolis,482 / 914,Sam Lozano,2900 / 7490,M,1946 / 4091,'MN',4:08:53
+25,1387,Ames,483 / 914,Jake Lindstrom,2908 / 7490,M,1949 / 4091,'IA',4:09:00
+29,3203,Savage,484 / 914,Luke Settergren,2932 / 7490,M,1957 / 4091,'MN',4:09:26
+24,5763,Chelsea,485 / 914,Shane Iacono,2958 / 7490,M,1970 / 4091,'MA',4:09:47
+24,7261,Fitchburg,486 / 914,Eli Sankey,2965 / 7490,M,1974 / 4091,'WI',4:09:55
+24,4061,Fergus Falls,487 / 914,William Eerdmans,2975 / 7490,M,1980 / 4091,'MN',4:09:59
+26,6536,St Cloud,488 / 914,Christopher Hutton,2991 / 7490,M,1988 / 4091,'MN',4:10:16
+23,2858,Elk River,489 / 914,Thaddeus Carroll,2994 / 7490,M,1989 / 4091,'MN',4:10:20
+25,10203,Minneapolis,490 / 914,Alex Phinney,2998 / 7490,M,1991 / 4091,'MN',4:10:24
+24,7265,Roseville,491 / 914,Dave Xue,3001 / 7490,M,1993 / 4091,'MN',4:10:27
+22,11506,Minneapolis,492 / 914,Cliff Dellamano,3005 / 7490,M,1996 / 4091,'MN',4:10:32
+28,4047,Minneapolis,493 / 914,Justin Holmdahl,3007 / 7490,M,1998 / 4091,'MN',4:10:34
+28,11594,New Brighton,494 / 914,Logan Patrick,3044 / 7490,M,2017 / 4091,'MN',4:11:02
+28,3845,Chaska,495 / 914,Nicholas Meyer,3046 / 7490,M,2019 / 4091,'MN',4:11:03
+25,5410,Brooklyn Park,496 / 914,Elliot Schaff,3056 / 7490,M,2027 / 4091,'MN',4:11:15
+24,7086,Minneapolis,497 / 914,Minh Tran,3063 / 7490,M,2030 / 4091,'MN',4:11:21
+28,6530,Columbus,498 / 914,Brett Rosenstein,3074 / 7490,M,2034 / 4091,'OH',4:11:36
+27,10856,Arlington,499 / 914,Michael Dullum,3079 / 7490,M,2039 / 4091,'VA',4:11:38
+27,4399,Minneapolis,500 / 914,Sunoh Choe,3086 / 7490,M,2042 / 4091,'MN',4:11:44
+26,8417,Brooklyn Park,501 / 914,Steve Yang,3119 / 7490,M,2053 / 4091,'MN',4:12:22
+23,4432,Brooklyn,502 / 914,Jonathan Morgan Kresken,3153 / 7490,M,2073 / 4091,'NY',4:12:58
+25,4983,Rosemount,503 / 914,Jared Sipe,3154 / 7490,M,2074 / 4091,'MN',4:12:59
+22,3785,Alta,504 / 914,Kyle Blank,3173 / 7490,M,2085 / 4091,'IA',4:13:21
+26,2943,Aitkin,505 / 914,David Anderson,3178 / 7490,M,2087 / 4091,'MN',4:13:26
+28,1423,Fridley,506 / 914,Elliott Lesser,3192 / 7490,M,2094 / 4091,'MN',4:13:42
+27,4027,St Paul,507 / 914,Karl Bloedorn,3204 / 7490,M,2100 / 4091,'MN',4:13:52
+23,9985,Evanston,508 / 914,Santana Sanchez,3216 / 7490,M,2104 / 4091,'IL',4:14:06
+24,2945,De Pere,509 / 914,Matt Snider,3222 / 7490,M,2110 / 4091,'WI',4:14:10
+28,10119,Milwaukee,510 / 914,Bryant Nelson,3223 / 7490,M,2111 / 4091,'WI',4:14:11
+22,8616,Minneapolis,511 / 914,Elliot Welter,3229 / 7490,M,2114 / 4091,'MN',4:14:16
+29,7269,Shakopee,512 / 914,Kyle Renneke,3245 / 7490,M,2122 / 4091,'MN',4:14:28
+26,6374,Evanston,513 / 914,Patrick Hockberger,3247 / 7490,M,2123 / 4091,'IL',4:14:29
+28,10288,Milwaukee,514 / 914,Jon Meiers,3253 / 7490,M,2126 / 4091,'WI',4:14:32
+24,1596,Denver,515 / 914,Lance Dzubinski,3260 / 7490,M,2130 / 4091,'CO',4:14:35
+28,10532,Eagan,516 / 914,Ben Hardy,3264 / 7490,M,2131 / 4091,'MN',4:14:39
+25,7249,New Brighton,517 / 914,Dustin Fry,3265 / 7490,M,2132 / 4091,'MN',4:14:40
+28,3704,Plymouth,518 / 914,Blayne McGuire,3278 / 7490,M,2136 / 4091,'MN',4:14:51
+28,10542,Chicago,519 / 914,Jose Nateras,3291 / 7490,M,2145 / 4091,'IL',4:15:01
+28,6537,Minneapolis,520 / 914,Riley Moynihan,3292 / 7490,M,2146 / 4091,'MN',4:15:01
+29,7076,Washington,521 / 914,Aldo Pazzini Bortoluzzi,3312 / 7490,M,2158 / 4091,'DC',4:15:18
+27,11569,Cushing,522 / 914,Dustin Maurer,3332 / 7490,M,2171 / 4091,'MN',4:15:41
+26,1039,St Paul,523 / 914,Alex Juchartz,3334 / 7490,M,2172 / 4091,'MN',4:15:45
+24,3212,Steamboat Springs,524 / 914,Jon Pilling,3335 / 7490,M,2173 / 4091,'CO',4:15:45
+24,1225,Woodbury,525 / 914,Carlin Michalek,3349 / 7490,M,2182 / 4091,'MN',4:16:00
+27,4223,Brooklyn Park,526 / 914,Jonathon Korum,3352 / 7490,M,2183 / 4091,'MN',4:16:04
+26,7294,Minneapolis,527 / 914,Daniel Mensching,3357 / 7490,M,2184 / 4091,'MN',4:16:07
+22,11243,Minneapolis,528 / 914,Marshall Tema,3367 / 7490,M,2190 / 4091,'MN',4:16:16
+25,7291,Minneapolis,529 / 914,Mauricio Duarte,3374 / 7490,M,2192 / 4091,'MN',4:16:23
+24,3381,Williamsburg,530 / 914,Taylor Johnston,3383 / 7490,M,2197 / 4091,'IA',4:16:31
+29,5045,Omaha,531 / 914,Kenneth Smith,3387 / 7490,M,2199 / 4091,'NE',4:16:36
+27,1261,New Hope,532 / 914,Philip Breczinski,3391 / 7490,M,2201 / 4091,'MN',4:16:43
+24,6848,Minneapolis,533 / 914,Jordan Reed,3406 / 7490,M,2204 / 4091,'MN',4:17:03
+26,2320,Chicago,534 / 914,Brian Letke,3435 / 7490,M,2219 / 4091,'IL',4:17:24
+29,1428,New York,535 / 914,Steven John,3436 / 7490,M,2220 / 4091,'NY',4:17:25
+27,5663,New York,536 / 914,Louie Woodall,3438 / 7490,M,2222 / 4091,'NY',4:17:29
+26,6653,New York,537 / 914,Solomon Jeong,3447 / 7490,M,2227 / 4091,'NY',4:17:37
+24,7091,St. Louis Park,538 / 914,Peter Stanley,3451 / 7490,M,2228 / 4091,'MN',4:17:40
+25,6381,Excelsior,539 / 914,Philip Holt,3457 / 7490,M,2232 / 4091,'MN',4:17:45
+23,6289,St Paul,540 / 914,Joshua Tomann,3464 / 7490,M,2237 / 4091,'MN',4:17:55
+23,9944,Bloomington,541 / 914,David Rickheim,3467 / 7490,M,2239 / 4091,'MN',4:17:59
+28,1470,Minneapolis,542 / 914,William Barringer,3480 / 7490,M,2244 / 4091,'MN',4:18:17
+23,2964,Shoreview,543 / 914,Connor Theisen,3482 / 7490,M,2245 / 4091,'MN',4:18:20
+24,3572,Madison,544 / 914,Riley Cashin,3493 / 7490,M,2251 / 4091,'WI',4:18:26
+29,6621,St Paul,545 / 914,Anthony Nelson,3495 / 7490,M,2252 / 4091,'MN',4:18:32
+28,8467,Burnsville,546 / 914,Brandon Newberger,3510 / 7490,M,2260 / 4091,'MN',4:18:48
+22,5852,Naperville,547 / 914,Trevor Leach,3513 / 7490,M,2261 / 4091,'IL',4:18:53
+23,5441,Madison,548 / 914,Marshall Padilla,3514 / 7490,M,2262 / 4091,'WI',4:18:56
+22,5588,St Louis Park,549 / 914,Carter Robinson,3515 / 7490,M,2263 / 4091,'MN',4:18:57
+27,4648,Andover,550 / 914,Sam Butler,3518 / 7490,M,2265 / 4091,'MN',4:18:58
+23,2811,Petersburg,551 / 914,Michael Schaake,3519 / 7490,M,2266 / 4091,'AK',4:19:04
+29,1655,Irving,552 / 914,Vignesh Vembu,3549 / 7490,M,2285 / 4091,'TX',4:19:37
+28,5291,St Louis Park,553 / 914,Brandon Eddy,3553 / 7490,M,2288 / 4091,'MN',4:19:41
+27,1842,Minneapolis,554 / 914,Nathan Breuer,3558 / 7490,M,2292 / 4091,'MN',4:19:44
+24,11152,Cottage Grove,555 / 914,Hieu Nguyen,3576 / 7490,M,2302 / 4091,'MN',4:19:59
+24,1379,North St Paul,556 / 914,Jacob Hunt,3588 / 7490,M,2307 / 4091,'MN',4:20:07
+29,7141,Eagan,557 / 914,Jon Pedersen,3590 / 7490,M,2308 / 4091,'MN',4:20:13
+25,5399,Minneapolis,558 / 914,Charlie Stokes,3599 / 7490,M,2313 / 4091,'MN',4:20:21
+28,6616,Minneapolis,559 / 914,Sebastian Marquez,3621 / 7490,M,2327 / 4091,'MN',4:20:37
+27,5715,Minneapolis,560 / 914,Brandon Kongsjord,3622 / 7490,M,2328 / 4091,'MN',4:20:38
+26,7252,Minneapolis,561 / 914,Louie Lachapelle,3631 / 7490,M,2334 / 4091,'MN',4:20:45
+24,3949,Oconomowoc,562 / 914,Evan Hussinger,3635 / 7490,M,2336 / 4091,'WI',4:20:49
+23,10666,Rosemount,563 / 914,Aaron Dangor,3655 / 7490,M,2342 / 4091,'MN',4:21:04
+23,3142,Minneapolis,564 / 914,Jeffrey Laux,3666 / 7490,M,2348 / 4091,'MN',4:21:14
+29,5621,West St Paul,565 / 914,Sam Koerner,3679 / 7490,M,2358 / 4091,'MN',4:21:27
+25,1399,Rochester,566 / 914,Cody Kitch,3685 / 7490,M,2359 / 4091,'MN',4:21:31
+27,6772,Minneapolis,567 / 914,Jon Engholm,3710 / 7490,M,2372 / 4091,'MN',4:21:51
+29,6667,St Paul,568 / 914,Corbyn Tao,3713 / 7490,M,2375 / 4091,'MN',4:21:54
+23,5850,Minneapolis,569 / 914,Jackson Baril,3714 / 7490,M,2376 / 4091,'MN',4:21:55
+24,6975,St Louis Park,570 / 914,Clinton Rivas,3715 / 7490,M,2377 / 4091,'MN',4:21:55
+29,6590,St Paul,571 / 914,Evan Hancock,3719 / 7490,M,2379 / 4091,'MN',4:22:00
+22,3522,Minneapolis,572 / 914,Michael Marzec,3738 / 7490,M,2390 / 4091,'MN',4:22:12
+26,2574,Minneapolis,573 / 914,Anubhav Dwivedi,3753 / 7490,M,2397 / 4091,'MN',4:22:29
+25,5338,Minneapolis,574 / 914,Jonathan Ver Steegh,3759 / 7490,M,2401 / 4091,'MN',4:22:32
+22,10551,Minneota,575 / 914,Jack Anundson,3772 / 7490,M,2409 / 4091,'MN',4:22:43
+25,6239,St Louis Park,576 / 914,Jonathan Sturtz,3773 / 7490,M,2410 / 4091,'MN',4:22:43
+24,5992,Mound,577 / 914,Alex Loken,3779 / 7490,M,2411 / 4091,'MN',4:22:50
+28,4701,Milwaukee,578 / 914,Connor Morrison,3783 / 7490,M,2414 / 4091,'WI',4:22:53
+27,11440,St Paul,579 / 914,Dan Slagle,3784 / 7490,M,2415 / 4091,'MN',4:22:55
+28,2737,Minneapolis,580 / 914,Paul Henderson,3800 / 7490,M,2421 / 4091,'MN',4:23:13
+25,2914,Minneapolis,581 / 914,"""Stefan OKula""",3817 / 7490,M,2430 / 4091,'MN',4:23:25
+29,6062,Bellevue,582 / 914,Jose Manuel Heredia Hidalgo,3836 / 7490,M,2438 / 4091,'WA',4:23:49
+27,3579,Minneapolis,583 / 914,Travis Hoyne,3847 / 7490,M,2443 / 4091,'MN',4:24:00
+27,6203,Little Rock,584 / 914,Brennan Fox,3853 / 7490,M,2445 / 4091,'AR',4:24:10
+27,2752,Minneapolis,585 / 914,Sam Stanley,3856 / 7490,M,2447 / 4091,'MN',4:24:16
+25,5454,West Salem,586 / 914,Jacob Gay,3863 / 7490,M,2450 / 4091,'WI',4:24:24
+26,6270,Rochester,587 / 914,Nathan Armstrong,3887 / 7490,M,2464 / 4091,'MN',4:24:42
+29,9860,Eden Prairie,588 / 914,Eric Marasco,3890 / 7490,M,2465 / 4091,'MN',4:24:52
+23,4097,Minneapolis,589 / 914,Sean Byrne,3907 / 7490,M,2476 / 4091,'MN',4:25:09
+26,6838,St Louis,590 / 914,Yusuf Agamawi,3918 / 7490,M,2483 / 4091,'MO',4:25:17
+29,6007,Tulsa,591 / 914,Mark Hamilton,3923 / 7490,M,2486 / 4091,'OK',4:25:21
+25,5558,Minneapolis,592 / 914,Andrew Knutson,3939 / 7490,M,2496 / 4091,'MN',4:25:32
+24,6404,Minneapolis,593 / 914,Edwin Schafer,3946 / 7490,M,2501 / 4091,'MN',4:25:35
+24,6365,Bloomington,594 / 914,Andrew Ward,3958 / 7490,M,2505 / 4091,'MN',4:25:45
+25,10997,Edina,595 / 914,Michael Levine,3975 / 7490,M,2512 / 4091,'MN',4:26:01
+22,7103,Plymouth,596 / 914,Matthew Fox,3985 / 7490,M,2516 / 4091,'MN',4:26:08
+26,7222,Blaine,597 / 914,John Huster,4001 / 7490,M,2525 / 4091,'MN',4:26:17
+27,11417,Richfield,598 / 914,Caleb Peterson,4006 / 7490,M,2527 / 4091,'MN',4:26:25
+24,6166,Minneapolis,599 / 914,Zach Heinrich,4017 / 7490,M,2531 / 4091,'MN',4:26:37
+24,6422,Plymouth,600 / 914,Benjamin Burns,4019 / 7490,M,2532 / 4091,'MN',4:26:38
+23,4022,St Paul,601 / 914,Tony Chiodi,4040 / 7490,M,2542 / 4091,'MN',4:26:55
+24,6480,Gresham,602 / 914,Kevin Krautscheid,4046 / 7490,M,2544 / 4091,'OR',4:26:58
+29,9905,Eagan,603 / 914,Steven Gackstetter,4051 / 7490,M,2545 / 4091,'MN',4:27:01
+23,6629,St Cloud,604 / 914,Curtis Williams,4060 / 7490,M,2550 / 4091,'MN',4:27:06
+29,2533,Bloomington,605 / 914,Thomas Lake,4064 / 7490,M,2551 / 4091,'MN',4:27:07
+26,3728,Duluth,606 / 914,Pan Tan,4079 / 7490,M,2558 / 4091,'MN',4:27:24
+26,3035,Dickinson,607 / 914,Kurt Aho,4095 / 7490,M,2568 / 4091,'ND',4:27:33
+22,3161,Hubbell,608 / 914,Reid Aho,4096 / 7490,M,2569 / 4091,'MI',4:27:33
+29,5313,St Paul,609 / 914,Jacob Romero,4098 / 7490,M,2570 / 4091,'MN',4:27:36
+29,7300,Minneapolis,610 / 914,Donald Rauscher,4108 / 7490,M,2576 / 4091,'MN',4:27:45
+27,3252,Wausau,611 / 914,Dan Genrich,4114 / 7490,M,2582 / 4091,'WI',4:27:52
+24,3193,Chicago,612 / 914,William Dehn,4123 / 7490,M,2588 / 4091,'IL',4:27:59
+25,3195,Minneapolis,613 / 914,Andrew Moss,4124 / 7490,M,2589 / 4091,'MN',4:27:59
+29,6065,St Louis Park,614 / 914,Brian Vike,4135 / 7490,M,2594 / 4091,'MN',4:28:05
+26,6863,Minneapolis,615 / 914,Tristan Boyd,4149 / 7490,M,2602 / 4091,'MN',4:28:28
+26,6594,Cokato,616 / 914,Levi Hendrickson,4154 / 7490,M,2605 / 4091,'MN',4:28:33
+24,3515,Eagan,617 / 914,Tyler Fry,4164 / 7490,M,2610 / 4091,'MN',4:28:41
+22,9958,Duluth,618 / 914,Spencer Capes,4189 / 7490,M,2620 / 4091,'MN',4:29:05
+22,5717,Maple Grove,619 / 914,Erik Tungland,4216 / 7490,M,2633 / 4091,'MN',4:29:29
+27,4437,Minneapolis,620 / 914,John Elliott,4217 / 7490,M,2634 / 4091,'MN',4:29:29
+26,10610,Eden Prairie,621 / 914,Steven Summers,4221 / 7490,M,2635 / 4091,'MN',4:29:37
+28,6573,St Paul,622 / 914,Eric Van Meter,4231 / 7490,M,2641 / 4091,'MN',4:29:48
+23,5846,Minneapolis,623 / 914,Nicholas Stoks,4244 / 7490,M,2650 / 4091,'MN',4:29:58
+28,8595,St Paul,624 / 914,Phillip Holmer,4253 / 7490,M,2655 / 4091,'MN',4:30:02
+26,6810,Minneapolis,625 / 914,Tyler Anderson,4258 / 7490,M,2659 / 4091,'MN',4:30:10
+27,4656,Lakeville,626 / 914,Matthew Benson,4269 / 7490,M,2665 / 4091,'MN',4:30:25
+28,6463,Monticello,627 / 914,Travis Kowalzek,4277 / 7490,M,2670 / 4091,'MN',4:30:29
+25,4897,Minneapolis,628 / 914,Grant Elbert,4279 / 7490,M,2671 / 4091,'MN',4:30:30
+24,10485,Andover,629 / 914,Tony Busch,4290 / 7490,M,2678 / 4091,'MN',4:30:42
+26,6297,Plymouth,630 / 914,Ben Meier,4292 / 7490,M,2679 / 4091,'MN',4:30:43
+23,3210,Bloomington,631 / 914,John Lanoue,4297 / 7490,M,2682 / 4091,'MN',4:30:52
+24,2966,Minneapolis,632 / 914,Levi Dantzinger,4338 / 7490,M,2701 / 4091,'MN',4:31:21
+22,10165,Woodbury,633 / 914,Paul Johnson,4343 / 7490,M,2703 / 4091,'MN',4:31:24
+25,6057,Raleigh,634 / 914,Marshall Crawley,4344 / 7490,M,2704 / 4091,'NC',4:31:25
+23,10013,Green Bay,635 / 914,Joe Calawerts,4345 / 7490,M,2705 / 4091,'WI',4:31:26
+23,5525,Shoreview,636 / 914,Patrick Ruether,4371 / 7490,M,2717 / 4091,'MN',4:31:53
+27,10838,Shoreview,637 / 914,Stephen Ojalvo,4375 / 7490,M,2719 / 4091,'MN',4:31:56
+24,3484,Madison,638 / 914,Jake Roble,4378 / 7490,M,2722 / 4091,'WI',4:31:58
+27,6282,Minneapolis,639 / 914,Max Nesterak,4384 / 7490,M,2726 / 4091,'MN',4:32:06
+28,6561,Maple Lake,640 / 914,Trevor Palusky,4388 / 7490,M,2729 / 4091,'MN',4:32:09
+25,6732,Minneapolis,641 / 914,Josh Andres,4402 / 7490,M,2734 / 4091,'MN',4:32:27
+27,9317,St Paul,642 / 914,Charles Davis,4409 / 7490,M,2736 / 4091,'MN',4:32:42
+24,6304,Maple Grove,643 / 914,Peter Hager,4416 / 7490,M,2741 / 4091,'MN',4:32:47
+29,6055,Fargo,644 / 914,Ze Ni,4444 / 7490,M,2749 / 4091,'ND',4:33:09
+29,1045,Lino Lakes,645 / 914,Tom Tardif,4446 / 7490,M,2751 / 4091,'MN',4:33:11
+24,8778,Bloomington,646 / 914,Daniel Ly,4461 / 7490,M,2758 / 4091,'MN',4:33:23
+29,6454,Maple Grove,647 / 914,Zachary Larson,4462 / 7490,M,2759 / 4091,'MN',4:33:23
+25,6234,Minneapolis,648 / 914,Randall Hemmings,4470 / 7490,M,2763 / 4091,'MN',4:33:33
+23,4744,Montgomery,649 / 914,Benjamin Pichotta,4474 / 7490,M,2764 / 4091,'MN',4:33:41
+25,4343,St Paul,650 / 914,Max Larock,4481 / 7490,M,2767 / 4091,'MN',4:33:45
+28,11198,St Louis Park,651 / 914,Bryce Anderson,4516 / 7490,M,2785 / 4091,'MN',4:34:20
+29,9476,Minneapolis,652 / 914,Mike Egan,4517 / 7490,M,2786 / 4091,'MN',4:34:21
+28,10505,Chicago,653 / 914,David Kierys,4540 / 7490,M,2795 / 4091,'IL',4:34:42
+23,11084,Minneapolis,654 / 914,David Rokhinson,4551 / 7490,M,2802 / 4091,'MN',4:34:53
+28,4397,Minneapolis,655 / 914,Brendan Kelly,4566 / 7490,M,2806 / 4091,'MN',4:35:04
+26,8025,Buffalo,656 / 914,Seth Sorensen,4585 / 7490,M,2813 / 4091,'MN',4:35:23
+27,9376,St Paul,657 / 914,John Melin,4598 / 7490,M,2817 / 4091,'MN',4:35:40
+28,6740,Minneapolis,658 / 914,Aaron Rosenthal,4604 / 7490,M,2821 / 4091,'MN',4:35:46
+28,9780,St Paul,659 / 914,Kye Castillo,4606 / 7490,M,2822 / 4091,'MN',4:35:48
+28,9579,New York,660 / 914,Simon Morgan,4611 / 7490,M,2824 / 4091,'NY',4:35:53
+22,6274,Eau Claire,661 / 914,Brady Skifstad,4614 / 7490,M,2827 / 4091,'WI',4:35:58
+23,6101,Bloomington,662 / 914,Andrew Ly,4624 / 7490,M,2834 / 4091,'MN',4:36:01
+27,5016,Los Angeles,663 / 914,Kevin McGraw,4632 / 7490,M,2837 / 4091,'CA',4:36:05
+25,5598,Minneapolis,664 / 914,Tim Murphy,4635 / 7490,M,2838 / 4091,'MN',4:36:07
+23,10699,Minneapolis,665 / 914,Riley Feldmann,4640 / 7490,M,2840 / 4091,'MN',4:36:11
+27,2360,Woodbury,666 / 914,Luke Wernberg,4641 / 7490,M,2841 / 4091,'MN',4:36:13
+28,4388,Minneapolis,667 / 914,Ryan Couillard,4644 / 7490,M,2843 / 4091,'MN',4:36:17
+25,9956,St Paul,668 / 914,"""Benjamin Stansbury-Odonnell""",4655 / 7490,M,2848 / 4091,'MN',4:36:24
+22,6948,Bloomington,669 / 914,Jake Felstow,4659 / 7490,M,2851 / 4091,'MN',4:36:33
+22,6958,Minneapolis,670 / 914,Jesse Italiano,4660 / 7490,M,2852 / 4091,'MN',4:36:33
+27,9626,Minneapolis,671 / 914,Kevin Reich,4671 / 7490,M,2856 / 4091,'MN',4:36:40
+25,5697,Minneapolis,672 / 914,Raoul Shah,4672 / 7490,M,2857 / 4091,'MN',4:36:40
+29,5052,St Louis Park,673 / 914,Sam Sundermeyer,4677 / 7490,M,2859 / 4091,'MN',4:36:44
+27,4225,St Louis Park,674 / 914,Carl Johnson,4686 / 7490,M,2863 / 4091,'MN',4:36:54
+29,6174,Des Moines,675 / 914,Robert Heineman,4688 / 7490,M,2864 / 4091,'IA',4:36:57
+23,5878,Minneapolis,676 / 914,Samuel Graf,4696 / 7490,M,2869 / 4091,'MN',4:37:04
+26,10499,Cedar Rapids,677 / 914,Tudor Livadaru,4697 / 7490,M,2870 / 4091,'IA',4:37:06
+26,6040,Richfield,678 / 914,Kyle Rademacher,4709 / 7490,M,2878 / 4091,'MN',4:37:14
+28,7202,Kellogg,679 / 914,Matt Kruger,4721 / 7490,M,2886 / 4091,'MN',4:37:32
+28,6141,Madison,680 / 914,Jonathan Burditt,4722 / 7490,M,2887 / 4091,'WI',4:37:33
+25,10611,Rochester,681 / 914,Noe Morales,4726 / 7490,M,2889 / 4091,'MN',4:37:38
+27,9519,Richfield,682 / 914,Dustin Cochart,4735 / 7490,M,2894 / 4091,'MN',4:37:48
+25,3756,Quincy,683 / 914,Kyle Bergemann,4736 / 7490,M,2895 / 4091,'MA',4:37:49
+27,11566,St. Louis Park,684 / 914,Theodore Keyport,4747 / 7490,M,2897 / 4091,'MN',4:38:05
+29,2649,Minnetonka,685 / 914,Matthew Falk,4758 / 7490,M,2902 / 4091,'MN',4:38:13
+28,6569,Crystal,686 / 914,Matt Fimon,4760 / 7490,M,2903 / 4091,'MN',4:38:14
+24,8071,Lakeville,687 / 914,Travis Evanson,4774 / 7490,M,2909 / 4091,'MN',4:38:30
+24,10986,Minneapolis,688 / 914,Tim Bouchard,4776 / 7490,M,2911 / 4091,'MN',4:38:31
+25,11613,Minneapolis,689 / 914,Ali Kamran,4779 / 7490,M,2914 / 4091,'MN',4:38:35
+22,11481,Andover,690 / 914,Logan Brown,4782 / 7490,M,2917 / 4091,'MN',4:38:39
+29,9737,Madison,691 / 914,Candido Andres,4783 / 7490,M,2918 / 4091,'WI',4:38:41
+27,2869,Eagan,692 / 914,Sergio Alvarez,4785 / 7490,M,2920 / 4091,'MN',4:38:44
+26,5551,Minneapolis,693 / 914,Michael Quinlan,4802 / 7490,M,2928 / 4091,'MN',4:38:55
+25,6346,St Cloud,694 / 914,Matthew Dymus,4805 / 7490,M,2930 / 4091,'MN',4:38:57
+22,10311,Apple Valley,695 / 914,Austin Pickup,4819 / 7490,M,2936 / 4091,'MN',4:39:10
+26,5188,Eden Prairie,696 / 914,Johnny Bates,4820 / 7490,M,2937 / 4091,'MN',4:39:11
+29,5956,Minneapolis,697 / 914,Sam Manning,4823 / 7490,M,2938 / 4091,'MN',4:39:14
+24,6670,Minneapolis,698 / 914,Paul Olson,4842 / 7490,M,2942 / 4091,'MN',4:39:32
+29,10694,Minneapolis,699 / 914,Andrew Leitner,4848 / 7490,M,2944 / 4091,'MN',4:39:44
+23,8455,St Michael,700 / 914,Riley Gehl,4849 / 7490,M,2945 / 4091,'MN',4:39:50
+27,4029,St Paul,701 / 914,Michael Ward,4864 / 7490,M,2954 / 4091,'MN',4:40:14
+25,5563,Ripon,702 / 914,Matthew Becker,4867 / 7490,M,2956 / 4091,'WI',4:40:21
+27,9648,Burnsville,703 / 914,David Bain,4884 / 7490,M,2962 / 4091,'MN',4:40:37
+24,2298,Renton,704 / 914,Nathan Castek,4906 / 7490,M,2971 / 4091,'WA',4:40:58
+27,4841,Waukee,705 / 914,Ethan Walton,4911 / 7490,M,2973 / 4091,'IA',4:41:03
+22,9194,St Paul,706 / 914,Zack Christiansen,4922 / 7490,M,2978 / 4091,'MN',4:41:13
+27,9464,St Paul,707 / 914,Jon Hunt,4924 / 7490,M,2979 / 4091,'MN',4:41:14
+28,5550,Woodbury,708 / 914,Mark Furniss,4930 / 7490,M,2982 / 4091,'MN',4:41:19
+26,5520,Minneapolis,709 / 914,Grant Blasczyk,4934 / 7490,M,2985 / 4091,'MN',4:41:25
+27,7301,Moorhead,710 / 914,Ezra Van Den Einde,4943 / 7490,M,2990 / 4091,'MN',4:41:33
+28,9917,St Paul,711 / 914,Neal Wehrwein,4951 / 7490,M,2995 / 4091,'MN',4:41:42
+22,7248,Fridley,712 / 914,Abdul Sesay,4954 / 7490,M,2997 / 4091,'MN',4:41:47
+26,7281,Minneapolis,713 / 914,Brett Walter,4955 / 7490,M,2998 / 4091,'MN',4:41:48
+27,5119,Malden,714 / 914,Christopher Unger,4961 / 7490,M,3003 / 4091,'MA',4:41:58
+23,2842,Olathe,715 / 914,William Ward,4964 / 7490,M,3004 / 4091,'KS',4:42:02
+28,11119,Minneapolis,716 / 914,Stephen Whitten,4971 / 7490,M,3010 / 4091,'MN',4:42:10
+22,4499,Lino Lakes,717 / 914,Alex Schaber,4980 / 7490,M,3015 / 4091,'MN',4:42:20
+24,4053,Shakopee,718 / 914,Cody Clark,4986 / 7490,M,3019 / 4091,'MN',4:42:27
+22,3818,Worthington,719 / 914,Jeremiah Letourneau,4992 / 7490,M,3022 / 4091,'MN',4:42:30
+27,10422,Plymouth,720 / 914,Bret Frantti,4994 / 7490,M,3023 / 4091,'MN',4:42:30
+26,8289,Eden Prairie,721 / 914,Tim Miller,5000 / 7490,M,3026 / 4091,'MN',4:42:38
+26,11300,West Stpaul,722 / 914,Jonathan Bringle,5006 / 7490,M,3029 / 4091,'MN',4:42:47
+29,6955,Brooklyn Center,723 / 914,Tyler Gustafson,5027 / 7490,M,3038 / 4091,'MN',4:43:10
+26,9396,Minneapolis,724 / 914,Michael Schultz,5048 / 7490,M,3050 / 4091,'MN',4:43:38
+28,9492,Brooklyn,725 / 914,Robert King,5063 / 7490,M,3057 / 4091,'NY',4:43:51
+29,6134,New Hope,726 / 914,Paul McGuire,5068 / 7490,M,3059 / 4091,'MN',4:44:00
+27,7149,Clearwater,727 / 914,Keaton Gustafson,5086 / 7490,M,3068 / 4091,'MN',4:44:19
+26,6162,Lakeville,728 / 914,Isaac Janssen,5093 / 7490,M,3072 / 4091,'MN',4:44:29
+28,6714,Minneapolis,729 / 914,John (jack) Ries,5117 / 7490,M,3082 / 4091,'MN',4:44:53
+22,11075,Madison,730 / 914,Aabhas Singh,5152 / 7490,M,3098 / 4091,'WI',4:45:48
+24,8698,Minneapolis,731 / 914,Olas Rooker,5153 / 7490,M,3099 / 4091,'MN',4:45:51
+23,7077,Deephaven,732 / 914,Salman Ikramuddin,5155 / 7490,M,3100 / 4091,'MN',4:45:53
+26,10696,St Paul,733 / 914,Anthony Balamut,5157 / 7490,M,3102 / 4091,'MN',4:45:57
+25,3441,Minneapolis,734 / 914,Micah Olson,5203 / 7490,M,3118 / 4091,'MN',4:46:36
+25,11494,Minneapolis,735 / 914,Harlan Johnson,5224 / 7490,M,3127 / 4091,'MN',4:46:56
+25,8267,Minneapolis,736 / 914,Luke Lambert,5232 / 7490,M,3130 / 4091,'MN',4:47:07
+22,2447,Otsego,737 / 914,Trenton Rgnonti,5239 / 7490,M,3133 / 4091,'MN',4:47:18
+29,8623,Maplewood,738 / 914,Elliot Sandquist,5249 / 7490,M,3138 / 4091,'MN',4:47:34
+23,6347,Minnetonka,739 / 914,Benjamin Tinkham,5254 / 7490,M,3139 / 4091,'MN',4:47:42
+23,5072,Plymouth,740 / 914,Evan Chen,5265 / 7490,M,3144 / 4091,'MN',4:47:54
+29,9265,St Paul,741 / 914,Luke Erber,5271 / 7490,M,3147 / 4091,'MN',4:48:09
+24,6133,Lincoln,742 / 914,Jim Weigandt,5277 / 7490,M,3150 / 4091,'NE',4:48:22
+23,4998,Red Wing,743 / 914,Elliot Dietz,5282 / 7490,M,3152 / 4091,'MN',4:48:28
+25,10925,St Paul,744 / 914,Jonathan Ahlfs,5296 / 7490,M,3159 / 4091,'MN',4:48:40
+24,10244,Minnetonka,745 / 914,Derrek Vanlith,5304 / 7490,M,3162 / 4091,'MN',4:48:46
+23,5942,Delano,746 / 914,Nick Peterson,5305 / 7490,M,3163 / 4091,'MN',4:48:50
+24,2521,St Paul,747 / 914,Peter Strickland,5325 / 7490,M,3174 / 4091,'MN',4:49:08
+26,11503,Minneapolis,748 / 914,Parker Smith,5327 / 7490,M,3176 / 4091,'MN',4:49:10
+25,6839,Rochester,749 / 914,Dylan Soukup,5346 / 7490,M,3185 / 4091,'MN',4:49:35
+28,9975,Boynton Beach,750 / 914,Brandon Hall,5357 / 7490,M,3188 / 4091,'FL',4:49:49
+29,2086,St Louis Park,751 / 914,Maxwell Lenz,5363 / 7490,M,3190 / 4091,'MN',4:49:56
+24,4199,Minneapolis,752 / 914,Albert Nejmeh,5391 / 7490,M,3201 / 4091,'MN',4:50:20
+22,3687,Buffalo,753 / 914,Nicholas Engfer,5397 / 7490,M,3204 / 4091,'MN',4:50:27
+25,9553,St Louis Park,754 / 914,Andrew Olson,5399 / 7490,M,3205 / 4091,'MN',4:50:28
+27,4822,Fitchburg,755 / 914,Patrick Holtan,5402 / 7490,M,3207 / 4091,'WI',4:50:34
+28,6886,Cordova,756 / 914,William Bruner,5414 / 7490,M,3213 / 4091,'IL',4:50:47
+25,9765,St Paul,757 / 914,Samuel Donovan,5431 / 7490,M,3218 / 4091,'MN',4:51:09
+23,11009,Minneapolis,758 / 914,Matthew Geske,5433 / 7490,M,3220 / 4091,'MN',4:51:17
+23,11370,Minneapolis,759 / 914,Luke Korthuis,5470 / 7490,M,3238 / 4091,'MN',4:52:11
+26,8411,Minneapolis,760 / 914,Jake Schmiesing,5473 / 7490,M,3241 / 4091,'MN',4:52:12
+22,4804,Eden Prairie,761 / 914,Grant Neubauer,5485 / 7490,M,3245 / 4091,'MN',4:52:21
+26,10778,Minnetonka,762 / 914,John Hunn,5496 / 7490,M,3248 / 4091,'MN',4:52:32
+29,9316,Richfield,763 / 914,Isaac Hanson,5512 / 7490,M,3255 / 4091,'MN',4:52:45
+22,6338,Long Beach,764 / 914,Miguel Garcia,5522 / 7490,M,3259 / 4091,'CA',4:52:51
+25,5107,Minneapolis,765 / 914,Colin Golden,5544 / 7490,M,3268 / 4091,'MN',4:53:14
+26,11424,Minneapolis,766 / 914,J. Michael Probert,5571 / 7490,M,3279 / 4091,'MN',4:53:49
+25,5758,Northridge,767 / 914,Joey Anderson,5583 / 7490,M,3283 / 4091,'CA',4:54:00
+24,4762,Plymouth,768 / 914,Samuel Bosak,5600 / 7490,M,3288 / 4091,'MN',4:54:19
+24,6562,Minneapolis,769 / 914,Andrew Harris,5601 / 7490,M,3289 / 4091,'MN',4:54:20
+24,11549,Minneapolis,770 / 914,Sam Larson,5603 / 7490,M,3290 / 4091,'MN',4:54:22
+26,9526,Chicago,771 / 914,Tyler Grzegorczyk,5604 / 7490,M,3291 / 4091,'IL',4:54:23
+24,9524,Chaska,772 / 914,Nathan Karstensen,5634 / 7490,M,3304 / 4091,'MN',4:55:02
+29,4679,Chicago,773 / 914,Maxwell Brink,5690 / 7490,M,3325 / 4091,'IL',4:56:07
+26,6325,Rochester,774 / 914,Benjamin Ochs,5694 / 7490,M,3327 / 4091,'MN',4:56:14
+29,10819,South St Paul,775 / 914,Josh Vopat,5714 / 7490,M,3338 / 4091,'MN',4:56:37
+25,6815,Duluth,776 / 914,Konnor Scanlon,5721 / 7490,M,3340 / 4091,'MN',4:56:47
+26,9715,North Liberty,777 / 914,Drew Chamberlin,5723 / 7490,M,3341 / 4091,'IA',4:56:49
+27,10185,Eden Prairie,778 / 914,Elliot Chejade,5724 / 7490,M,3342 / 4091,'MN',4:56:50
+26,11286,Minneapolis,779 / 914,Andrew Ansell,5730 / 7490,M,3344 / 4091,'MN',4:56:54
+25,5253,Hopkins,780 / 914,Connor Gallagher,5736 / 7490,M,3348 / 4091,'MN',4:56:57
+25,4569,Carlton,781 / 914,Kerry Vohnoutka,5747 / 7490,M,3354 / 4091,'MN',4:57:07
+25,11449,Rochester,782 / 914,Brad Tagtow,5752 / 7490,M,3357 / 4091,'MN',4:57:13
+23,11080,Edina,783 / 914,Connor Peterson,5757 / 7490,M,3360 / 4091,'MN',4:57:21
+24,6015,St Paul,784 / 914,Henry Southwick,5763 / 7490,M,3362 / 4091,'MN',4:57:29
+25,9305,Minneapolis,785 / 914,Kyle Johnson,5785 / 7490,M,3368 / 4091,'MN',4:58:09
+23,8899,Burnsville,786 / 914,Matthew Gregoire,5790 / 7490,M,3370 / 4091,'MN',4:58:17
+26,11092,Minneapolis,787 / 914,Weston Birkeland,5826 / 7490,M,3390 / 4091,'MN',4:58:45
+25,11413,Hudson,788 / 914,Aaron Parsons,5851 / 7490,M,3404 / 4091,'WI',4:59:04
+23,7056,St. Louis Park,789 / 914,Alex Soholt,5856 / 7490,M,3407 / 4091,'MN',4:59:07
+29,8713,Shakopee,790 / 914,Frank Kocina,5859 / 7490,M,3408 / 4091,'MN',4:59:08
+24,8145,Savage,791 / 914,Erik Bain,5871 / 7490,M,3411 / 4091,'MN',4:59:28
+25,7175,Minneapolis,792 / 914,Nathaniel Auer,5907 / 7490,M,3433 / 4091,'MN',5:00:20
+23,228,S O Paulo,793 / 914,Bruno Helman,5909 / 7490,M,3434 / 4091,'',5:00:28
+22,11487,Minnetonka,794 / 914,Andrew Cordell,5917 / 7490,M,3437 / 4091,'MN',5:00:32
+22,7166,Minnetonka,795 / 914,Chris Auer,5918 / 7490,M,3438 / 4091,'MN',5:00:33
+29,10391,Inver Grove Height,796 / 914,Andrew Becklund,5922 / 7490,M,3441 / 4091,'MN',5:00:34
+28,10599,Richfield,797 / 914,Ryan Ticen,5925 / 7490,M,3444 / 4091,'MN',5:00:41
+26,8865,North Liberty,798 / 914,Joe Vens,5935 / 7490,M,3451 / 4091,'IA',5:00:53
+24,7063,Minneapolis,799 / 914,Joseph Heegaard,5936 / 7490,M,3452 / 4091,'MN',5:00:53
+29,10884,Oak Lawn,800 / 914,Antonio Manjarrez,5955 / 7490,M,3457 / 4091,'IL',5:01:18
+26,10157,Mounds View,801 / 914,Bjorn Westlund,5959 / 7490,M,3459 / 4091,'MN',5:01:23
+27,10872,Dallas,802 / 914,Mark Jackson,5974 / 7490,M,3463 / 4091,'TX',5:01:41
+26,5816,Lino Lakes,803 / 914,Nathan Hiemstra,5983 / 7490,M,3467 / 4091,'MN',5:02:01
+26,4960,St Paul,804 / 914,Caleb Glass,6024 / 7490,M,3483 / 4091,'MN',5:03:01
+29,4219,Minneapolis,805 / 914,Cody Schultz,6034 / 7490,M,3486 / 4091,'MN',5:03:16
+29,6051,Moline,806 / 914,Nathan George,6040 / 7490,M,3489 / 4091,'IL',5:03:23
+29,10917,Maplewood,807 / 914,Luke Money,6043 / 7490,M,3492 / 4091,'MN',5:03:28
+22,10236,Muskego,808 / 914,Aaron Beczkiewicz,6066 / 7490,M,3503 / 4091,'WI',5:04:02
+25,8464,Inver Grove Height,809 / 914,Derek Kuehn,6068 / 7490,M,3505 / 4091,'MN',5:04:10
+28,9659,St Louis Park,810 / 914,Turner Johnson,6074 / 7490,M,3508 / 4091,'MN',5:04:19
+28,4146,Bloomington,811 / 914,Jacob Klis,6092 / 7490,M,3517 / 4091,'MN',5:04:48
+23,6222,El Segundo,812 / 914,Garrett James,6097 / 7490,M,3520 / 4091,'CA',5:04:57
+27,3824,Shoreview,813 / 914,Luke Abrahamson,6112 / 7490,M,3528 / 4091,'MN',5:05:20
+25,9691,St Peter,814 / 914,Seth Rasmussen,6115 / 7490,M,3529 / 4091,'MN',5:05:26
+28,8376,St Paul,815 / 914,Tyler Matz,6124 / 7490,M,3534 / 4091,'MN',5:05:38
+26,1825,Maple Grove,816 / 914,Daniel Harper,6129 / 7490,M,3536 / 4091,'MN',5:05:51
+27,6703,Circle Pines,817 / 914,Neil Holmberg,6143 / 7490,M,3539 / 4091,'MN',5:06:28
+27,11518,Seattle,818 / 914,Samuel Hendrix,6144 / 7490,M,3540 / 4091,'WA',5:06:29
+27,10096,Coon Rapids,819 / 914,Peter Bollig,6157 / 7490,M,3547 / 4091,'MN',5:07:00
+26,10605,Nashwauk,820 / 914,David Haugen,6160 / 7490,M,3548 / 4091,'MN',5:07:02
+27,8146,Edina,821 / 914,Donald Kneepkens,6174 / 7490,M,3554 / 4091,'MN',5:07:29
+24,7036,Burnsville,822 / 914,Javen Shepherd,6207 / 7490,M,3566 / 4091,'MN',5:08:23
+22,5979,Cottage Grove,823 / 914,Brandon Lowe,6208 / 7490,M,3567 / 4091,'MN',5:08:23
+28,5604,Minneapolis,824 / 914,Jacob Vandelist,6211 / 7490,M,3569 / 4091,'MN',5:08:27
+27,8268,Minneapolis,825 / 914,Randy Peterson,6233 / 7490,M,3580 / 4091,'MN',5:08:55
+25,6260,Minneapolis,826 / 914,Coleton Hanson,6235 / 7490,M,3581 / 4091,'MN',5:08:56
+24,6356,Minneapolis,827 / 914,Jacob Goudey,6236 / 7490,M,3582 / 4091,'MN',5:09:00
+29,8748,Massillon,828 / 914,Jordan Maddocks,6245 / 7490,M,3588 / 4091,'OH',5:09:29
+22,5309,St Paul,829 / 914,Brent Champion,6250 / 7490,M,3592 / 4091,'MN',5:09:38
+27,8683,Woodbury,830 / 914,Jeffrey Oberlander,6251 / 7490,M,3593 / 4091,'MN',5:09:41
+28,9933,Richfield,831 / 914,John Hancock,6267 / 7490,M,3598 / 4091,'MN',5:10:06
+28,10049,St Louis Park,832 / 914,Eric Dahlman,6299 / 7490,M,3612 / 4091,'MN',5:11:12
+22,4601,Mound,833 / 914,Carl Stone,6300 / 7490,M,3613 / 4091,'MN',5:11:13
+29,10937,Minneapolis,834 / 914,Eric Gonzalez,6337 / 7490,M,3627 / 4091,'MN',5:12:31
+26,10448,Minneapolis,835 / 914,Jack Novak,6341 / 7490,M,3630 / 4091,'MN',5:12:48
+23,5639,Hamel,836 / 914,Tom Kivisto,6343 / 7490,M,3631 / 4091,'MN',5:12:53
+24,3983,Mounds View,837 / 914,Zach Springer,6345 / 7490,M,3632 / 4091,'MN',5:12:56
+22,8188,St Paul,838 / 914,Benjamin Scheel,6351 / 7490,M,3635 / 4091,'MN',5:13:07
+23,5103,Curtiss,839 / 914,Christopher Sova,6352 / 7490,M,3636 / 4091,'WI',5:13:07
+28,8863,Minneapolis,840 / 914,Grant Gibeau,6366 / 7490,M,3643 / 4091,'MN',5:13:36
+28,6461,St Paul,841 / 914,Joel Stanek,6367 / 7490,M,3644 / 4091,'MN',5:13:36
+28,4802,Fridley,842 / 914,Craig Eckdahl,6391 / 7490,M,3655 / 4091,'MN',5:14:30
+26,9680,Chicago,843 / 914,Jordan Ashworth,6397 / 7490,M,3657 / 4091,'IL',5:14:37
+26,10447,Shoreview,844 / 914,Eric Jameson,6402 / 7490,M,3659 / 4091,'MN',5:14:40
+24,6817,Arden Hills,845 / 914,Craig Henkel,6410 / 7490,M,3662 / 4091,'MN',5:15:04
+23,5445,Syracuse,846 / 914,Bilal Ahmad,6416 / 7490,M,3665 / 4091,'NY',5:15:20
+29,8593,Sioux Falls,847 / 914,Thomas Abbott,6430 / 7490,M,3669 / 4091,'SD',5:15:38
+28,7227,St. Louis Park,848 / 914,Dan Erzberger,6437 / 7490,M,3672 / 4091,'MN',5:15:56
+22,1915,Elk River,849 / 914,Samuel Gerlach,6449 / 7490,M,3674 / 4091,'MN',5:16:16
+26,11113,Blaine,850 / 914,Mike Lindaman,6470 / 7490,M,3684 / 4091,'MN',5:16:49
+26,10905,St Paul,851 / 914,Devan Kelly,6478 / 7490,M,3689 / 4091,'MN',5:17:11
+25,2152,Janesville,852 / 914,David Trahms,6480 / 7490,M,3690 / 4091,'MN',5:17:22
+26,8215,Fridley,853 / 914,Joseph Widman,6481 / 7490,M,3691 / 4091,'MN',5:17:28
+23,5538,New York,854 / 914,Anatole Bell-Baltaci,6486 / 7490,M,3693 / 4091,'NY',5:17:44
+29,10094,Columbus,855 / 914,Samuel Paul Kuchipudi,6512 / 7490,M,3703 / 4091,'IN',5:18:33
+29,9105,Minneapolis,856 / 914,Charles Lane,6529 / 7490,M,3708 / 4091,'MN',5:18:57
+24,9295,Wheaton,857 / 914,William Huesing,6544 / 7490,M,3714 / 4091,'IL',5:19:20
+27,8546,Otsego,858 / 914,Andrew Horner,6545 / 7490,M,3715 / 4091,'MN',5:19:22
+29,8651,Osceola,859 / 914,Micah Bruns,6550 / 7490,M,3716 / 4091,'WI',5:19:27
+22,6976,Minneapolis,860 / 914,Luke Riveness,6602 / 7490,M,3741 / 4091,'MN',5:20:55
+28,2810,Charleston,861 / 914,Ethan Dubois,6612 / 7490,M,3744 / 4091,'SC',5:21:07
+28,10039,Minneapolis,862 / 914,Benjamin Rich,6660 / 7490,M,3763 / 4091,'MN',5:23:05
+23,8764,St Louis Park,863 / 914,Joe Erikson,6666 / 7490,M,3766 / 4091,'MN',5:23:14
+24,8765,St Louis Park,864 / 914,Thomas Spargo,6667 / 7490,M,3767 / 4091,'MN',5:23:15
+24,10012,Rochester,865 / 914,Benjamin Halliday,6671 / 7490,M,3769 / 4091,'MN',5:23:21
+23,10354,Green Bay,866 / 914,Ryan Tachick,6673 / 7490,M,3771 / 4091,'WI',5:23:22
+23,5870,St Paul,867 / 914,Matt Soltys,6706 / 7490,M,3788 / 4091,'MN',5:24:25
+29,5574,Plainfield,868 / 914,Anthony Lackore,6711 / 7490,M,3790 / 4091,'IL',5:24:27
+29,9590,Maplewood,869 / 914,Kong Yang,6718 / 7490,M,3792 / 4091,'MN',5:24:35
+26,8189,Edina,870 / 914,Johnny Dang,6726 / 7490,M,3793 / 4091,'MN',5:24:44
+26,9856,Circle Pines,871 / 914,Jacob Farrington,6728 / 7490,M,3795 / 4091,'MN',5:24:46
+26,10176,New Brighton,872 / 914,Tyler Treptow,6738 / 7490,M,3801 / 4091,'MN',5:25:00
+26,11057,Minnetonka,873 / 914,Andy Nguyen,6751 / 7490,M,3804 / 4091,'MN',5:25:20
+24,10820,Wyoming,874 / 914,Jacob Bertram,6768 / 7490,M,3813 / 4091,'MN',5:26:13
+28,10621,Richfield,875 / 914,Samant Manandhar,6793 / 7490,M,3821 / 4091,'MN',5:27:08
+27,9511,St Louis Park,876 / 914,Timothy Wolfgram,6805 / 7490,M,3825 / 4091,'MN',5:27:25
+28,5875,Chicago,877 / 914,Peter Schumann,6809 / 7490,M,3828 / 4091,'IL',5:27:32
+28,6741,Minneapolis,878 / 914,Kumar Balasubrahmanyan,6810 / 7490,M,3829 / 4091,'MN',5:27:33
+25,10814,New Brighton,879 / 914,Andrew Halverson,6827 / 7490,M,3834 / 4091,'MN',5:28:17
+29,10267,Minnetonka,880 / 914,Alok Kumar Singh,6840 / 7490,M,3836 / 4091,'MN',5:28:46
+22,2837,Hastings,881 / 914,Jacob Striker,6842 / 7490,M,3837 / 4091,'MN',5:28:48
+26,4915,Grey Eagle,882 / 914,Mitchell Cannon,6859 / 7490,M,3844 / 4091,'MN',5:29:15
+28,11567,Ham Lake,883 / 914,Brad Cunnien,6899 / 7490,M,3860 / 4091,'MN',5:30:43
+29,8613,St Paul,884 / 914,Nathan Anderson,6921 / 7490,M,3869 / 4091,'MN',5:31:13
+25,10130,Moorhead,885 / 914,Aaron Johnson,6928 / 7490,M,3872 / 4091,'MN',5:31:22
+22,10580,Richfield,886 / 914,Gabriel Smith,6965 / 7490,M,3889 / 4091,'MN',5:33:04
+28,3866,Twin Cities,887 / 914,Casey Krause,6986 / 7490,M,3900 / 4091,'MN',5:33:55
+25,10073,Hopkins,888 / 914,Arden Costello,6997 / 7490,M,3905 / 4091,'MN',5:34:21
+24,10320,Stillwater,889 / 914,Matthew Novitch,7017 / 7490,M,3913 / 4091,'MN',5:35:36
+24,7217,Otsego,890 / 914,Ryan Williams,7043 / 7490,M,3923 / 4091,'MN',5:36:50
+24,10588,Onalaska,891 / 914,Patrick Swanson,7046 / 7490,M,3924 / 4091,'WI',5:37:13
+27,8629,Minneapolis,892 / 914,Scott Matthews,7055 / 7490,M,3928 / 4091,'MN',5:37:55
+28,1078,Zimmerman,893 / 914,Jacob Wernersbach,7066 / 7490,M,3935 / 4091,'MN',5:38:19
+29,8709,Minneapolis,894 / 914,Kartik Ramkrishnan,7067 / 7490,M,3936 / 4091,'MN',5:38:19
+29,9620,Minneapolis,895 / 914,James Granse,7123 / 7490,M,3955 / 4091,'MN',5:41:28
+27,7255,Anoka,896 / 914,Jordan Needham,7138 / 7490,M,3962 / 4091,'MN',5:42:00
+29,8814,Maple Lake,897 / 914,Jordan Muehlberg,7159 / 7490,M,3969 / 4091,'MN',5:43:03
+28,4077,Minneapolis,898 / 914,Ryan Olson,7163 / 7490,M,3971 / 4091,'MN',5:43:11
+26,4451,Stewartville,899 / 914,Jeremy Hauger,7251 / 7490,M,4010 / 4091,'MN',5:48:04
+29,10162,Centennial,900 / 914,Eric Miller,7252 / 7490,M,4011 / 4091,'CO',5:48:05
+26,4772,Inver Grove Height,901 / 914,Garrett Koland,7262 / 7490,M,4016 / 4091,'MN',5:48:31
+23,2970,Richfield,902 / 914,Alex Brault,7284 / 7490,M,4021 / 4091,'MN',5:49:49
+23,3546,Duluth,903 / 914,Tyler Lafontaine,7286 / 7490,M,4022 / 4091,'MN',5:49:54
+28,10370,Milwaukee,904 / 914,Jack Yeksigian,7330 / 7490,M,4038 / 4091,'WI',5:53:44
+29,8204,Bryan,905 / 914,Dean Matter,7343 / 7490,M,4045 / 4091,'TX',5:55:01
+29,7026,St Louis Park,906 / 914,Geoffrey Petrie,7366 / 7490,M,4052 / 4091,'MN',5:56:45
+29,11608,Minneapolis,907 / 914,Preston Dibenedetto,7399 / 7490,M,4063 / 4091,'MN',5:59:48
+26,5885,Apple Valley,908 / 914,Jeffrey Nestrud,7418 / 7490,M,4067 / 4091,'MN',6:01:49
+29,8714,Owatonna,909 / 914,Jordan Gilgenbach,7429 / 7490,M,4070 / 4091,'MN',6:03:33
+25,11453,West St Paul,910 / 914,Matthew Trester,7441 / 7490,M,4077 / 4091,'MN',6:05:37
+24,9178,Island Lake,911 / 914,Nicholas Peat,7479 / 7490,M,4085 / 4091,'IL',6:12:16
+29,10584,Middleton,912 / 914,Praneeth Palety,7480 / 7490,M,4086 / 4091,'WI',6:12:57
+23,6630,Minneapolis,913 / 914,Philip Xiao,7481 / 7490,M,4087 / 4091,'MN',6:13:22
+29,7016,North St Paul,914 / 914,Joshua Lo,7483 / 7490,M,4089 / 4091,'MN',6:15:58
