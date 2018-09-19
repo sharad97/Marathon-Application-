@@ -33,5 +33,5 @@
 4. Microsoft Azure SQL Server
 5. Microsoft SQL Server Management
 
- # In Progress
+ ## In Progress
  * MVC application in C# with the latest .NET version using data from Database
