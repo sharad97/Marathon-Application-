@@ -1,5 +1,5 @@
 # Marathon-Application
- * Web Crawles web site and Automatically Upload Data in Microsoft Azure SQL Server Database.
+ * Web Crawles web site (using scrapy - python) and Automatically Upload Data in Microsoft Azure SQL Server Database.
  * MVC application in C# with the latest .NET version using data
 
 
@@ -32,6 +32,7 @@
 3. pymssql installed
 4. Microsoft Azure SQL Server
 5. Microsoft SQL Server Management
+6. Option: Microsoft Visual Studio
 
  ## In Progress
  * MVC application in C# with the latest .NET version using data from Database
