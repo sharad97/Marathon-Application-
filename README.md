@@ -1,6 +1,6 @@
 # Marathon-Application
- * Web Crawlers web site and Automatically Upload Data in Microsoft Azure SQL Server Database.
- * Application display data using C#
+ * Web Crawles web site and Automatically Upload Data in Microsoft Azure SQL Server Database.
+ * MVC application in C# with the latest .NET version using data
 
 
 ## To run spider:
@@ -33,4 +33,5 @@
 4. Microsoft Azure SQL Server
 5. Microsoft SQL Server Management
 
-   
+ # In Progress
+ * MVC application in C# with the latest .NET version using data from Database
