@@ -10,7 +10,7 @@ class StackCrawlerSpider(Spider):
     name = 'marathon'
     allowed_domains = ['mtecresults.com']
     start_urls = [
-        "http://farm.mtecresults.com/race/show/5828?division=M2229&offset=0&perPage=914",
+        "http://farm.mtecresults.com/race/show/5828?overall=yes&offset=0&perPage=7490",
     ]
 
     def parse(self, response):

@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Statistics";
+}
+
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+    <style>
+        body, html {
+            margin: 20px;
+            padding: 0;
+        }
+
+        .axis {
+            font: 10px sans-serif;
+        }
+
+            .axis path,
+            .axis line {
+                fill: none;
+                stroke: #000;
+                shape-rendering: crispEdges;
+            }
+
+    </style>
+</head>
+
+<body>
+    <h1>Number of Participants by Age & Age Group & Sex</h1>
+    @Html.Partial("DataJson");
+    <h1>Number of Participants by State</h1>
+    @Html.Partial("Data2Json");
+
+</body>
+
+
+

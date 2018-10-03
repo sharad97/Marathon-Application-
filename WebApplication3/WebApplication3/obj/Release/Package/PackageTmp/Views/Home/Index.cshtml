@@ -1,0 +1,134 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<WebApplication3.Models.runner>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+
+<h2>Runners</h2>
+<style>
+
+    .button {
+        color: white;
+        display: inline-block;
+        font: 2.4em Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+        font-size: 12px;
+        padding: 14px;
+        background: url(overlay.png) repeat-x center #ffcc00;
+        background-color: rgb(100,149,237);
+        border: 1px solid white;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        border-bottom: 1px solid #9f9f9f;
+        -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+        -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+        cursor: pointer;
+    }
+
+    .button:hover {
+        background-color: rgb(100,149,300);
+        color: #ecdbff;
+    }
+
+    
+
+</style>
+<div>
+
+    <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+            Name: @Html.TextBox("SearchString") 
+        </div>
+        <button type="submit" class="button">Submit</button>
+    </form>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            Bib
+        </th>
+        <th>
+            Age
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            DivPl
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Overall
+        </th>
+        <th>
+            Sex
+        </th>
+        <th>
+            SexPl
+        </th>
+        <th>
+            State
+        </th>
+        <th>
+            Time
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bib)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DivPl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Overall)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sex)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SexPl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "DetailsIndex", new { id = item.Bib }) |
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, currentFilter = ViewBag.CurrentFilter }))
+
+
