@@ -40,5 +40,7 @@
 
  ## In Progress
  * MVC application in C# with the latest .NET version using data from Database
+ 
  #version 1 (Released) 
+ 
  [https://webapplication320181003040402.azurewebsites.net](https://webapplication320181003040402.azurewebsites.net)
