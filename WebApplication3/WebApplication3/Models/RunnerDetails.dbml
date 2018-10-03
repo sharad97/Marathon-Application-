@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Marathon" Class="RunnerDetailsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=marathondata.database.windows.net;Initial Catalog=Marathon;User ID=sharad" SettingsObjectName="WebApplication3.Properties.Settings" SettingsPropertyName="MarathonConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.runner" Member="runners">
+    <Type Name="runner">
+      <Column Name="Age" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Bib" Type="System.Double" DbType="Float NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DivPl" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Overall" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SexPl" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Time" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewBag.Title = "About";
+}
+
+
+<head>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <style>
+        .tooltip {
+            width: auto;
+            height: auto;
+            font: 14px sans-serif;
+            font-weight: bold;
+            border-radius: 5px;
+            padding: 3px 3px 3px 3px;
+            position: absolute;
+            background: SeaGreen;
+            border: solid black 2px;
+            border-radius: 8px;
+            pointer-events: none;
+            margin-left: 15px;
+            color: white;
+        }
+
+        h1 {
+            font-size: 20px;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        h2 {
+            font-size: 16px;
+            font-style: oblique;
+        }
+
+        .web {
+            font-weight: normal;
+            font-size: 16px;
+        }
+        ul {
+            list-style: square inside;
+        }
+
+        .self {
+            padding-top: 0px;
+            padding-left: 11px;
+            padding-right: 11px;
+            padding-bottom: 36px;
+            margin-left: 50px;
+            margin-right: 50px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .edu {
+            padding-left: 11px;
+            padding-right: 11px;
+            padding-bottom: 36px;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+
+    </style>
+
+
+</head>
+
+<body>
+    <div class="self">
+        <h2>This website is created for Assignment given by Rabindra Khadka</h2>
+    </div>
+    <div class="self">
+        <h1 class="school">Created By:</h1>
+        <div id="map-container" class="svg-container"></div>
+        <h2 class="myname">Sharad Shrestha</h2>
+        <h2 class="mail">sharadstha7@gmail.com</h2>
+        <h2 class="tel">+1(707)-529-0738</h2>
+        <a class="web" href="https://sharadportfolio.netlify.com">https://sharadportfolio.netlify.com</a>
+    </div>
+
+    <div class="edu">
+        <h1 class="school">Education:</h1>
+        <br>
+        <h2 class="ri">University of California, Santa Cruz - Jack Baskin School Of Engineering</h2>
+        <h2>Bachelor of Science Degree in Computer Science</h2>
+    </div>
+
+
+
+    <script type="text/javascript">
+        var margin = { top: 0, right: 0, bottom: 0, left: 0 };
+        var height = 240;
+        var width = 240;
+        var svg = d3.select('div#map-container')
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height)
+            .append('g');
+
+        var tooltip = d3.select('body').append('div')
+            .attr('class', 'tooltip')
+            .style('opacity', 0);
+
+        var defs = svg.append('defs');
+        var size = 150;
+        var rects = [1];
+        var circles = [1];
+        var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        var imgId = 'img_';
+        var imgUrl = 'url(#img_)';
+
+        defs.selectAll('pattern')
+            .data(circles)
+            .enter()
+            .append('pattern')
+            .attr('id', imgId)
+            .attr('width', 1)
+            .attr('height', 1)
+            .attr('patternUnits', 'objectBoundingBox')
+            .append('image')
+            .attr('x', 0)
+            .attr('y', 0)
+            .attr('width', size)
+            .attr('height', size)
+            .attr('xlink:href', 'https://s3-us-west-1.amazonaws.com/12webimage/webimage/profpic.jpg');
+
+
+        svg.selectAll('circle')
+            .data(circles)
+            .enter()
+            .append('circle')
+            .attr('cx', 150)
+            .attr('cy', 150)
+            .attr('r', size / 2)
+            .style('fill', imgUrl)
+            .style('stroke-width', '10')
+            .style('stroke', color)
+            .on('mouseover', function (d) {
+                tooltip.transition()
+                    .duration(200)
+                    .style('opacity', 0.9);
+                tooltip.html('<table>' +
+                    "<tr><td align='left'>About Me</td><td align='center'>:<td align='right'>" + 'I love programming' + '</td></tr>' + '</table>')
+                    .style('left', (d3.event.pageX + 0) + 'px')
+                    .style('top', (d3.event.pageY - 28) + 'px');
+            })
+            .on('mouseout', function (d) {
+                tooltip.transition()
+                    .duration(500)
+                    .style('opacity', 0);
+            });
+
+        var g = svg.append('g')
+            .attr('width', width)
+            .attr('height', height);
+
+    </script>
+
+</body>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WebApplication3.Properties.Settings.MarathonConnectionString-Web.config Connection String" description="WebApplication3.Properties.Settings.MarathonConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=marathondata.database.windows.net;Initial Catalog=Marathon;User ID=sharad;Password=123456p!" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\shara\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebApplication3.Properties.Settings.MarathonConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MyDatabaseEntities-Web.config Connection String" description="MyDatabaseEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.MyModel.csdl|res://*/Models.MyModel.ssdl|res://*/Models.MyModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=marathondata.database.windows.net;initial catalog=Marathon;user id=sharad;password=123456p!;multipleactiveresultsets=True;application name=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\shara\\source\\repos\\WebApplication3\\WebApplication3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyDatabaseEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MarathonModelStoreContainer" CdmEntityContainer="MarathonEntities">
+    <EntitySetMapping Name="runners">
+      <EntityTypeMapping TypeName="MarathonModel.runner">
+        <MappingFragment StoreEntitySet="runner">
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Bib" ColumnName="Bib" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="DivPl" ColumnName="DivPl" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Overall" ColumnName="Overall" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="SexPl" ColumnName="SexPl" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

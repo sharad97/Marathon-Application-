@@ -1,0 +1,449 @@
+﻿
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+    <style>
+        body, html {
+            margin: 20px;
+            padding: 0;
+        }
+
+        .axis {
+            font: 10px sans-serif;
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+
+        .button {
+            color: white;
+            display: inline-block;
+            font: 2.4em Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+            font-size: 12px;
+            padding: 14px;
+            background: url(overlay.png) repeat-x center #ffcc00;
+            background-color: rgb(100,149,237);
+            border: 1px solid white;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+            border-radius: 10px;
+            border-bottom: 1px solid #9f9f9f;
+            -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+            -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+            cursor: pointer;
+            margin-bottom: 40px;
+        }
+
+        .button:hover {
+            background-color: rgb(100,149,300);
+            color: #ecdbff;
+        }
+
+    </style>
+</head>
+
+<body>
+    <button class="button" type="button" onclick="data1()">Number of Runner by Age Group </button>
+    <button class="button" type="button" onclick="data2()">Number of Runner by Sex</button>
+    <button class="button" type="button" onclick="data()">Number of Runner by Age</button>
+    <svg width="950" height="350" id="body1"></svg>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //Call EmpDetails jsonResult Method
+            $.getJSON("DataJson",
+                function (json) {
+                    //console.log(json);
+                    /*
+                    function getCount(Age) {
+                        var count = 0;
+                        for (var i = 0; i < json.length; i++) {
+                            if (json[i].Age == Age) {
+                                count++;
+                            }
+                        }
+                        return count;
+                    }
+
+                    console.log(getCount(1));
+                    */
+
+
+                    var margin = { top: 20, right: 20, bottom: 70, left: 40 },
+                        width = 950 - margin.left - margin.right,
+                        height = 300 - margin.top - margin.bottom;
+
+
+                    var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
+
+                    var y = d3.scale.linear().range([height, 0]);
+
+                    var xAxis = d3.svg.axis()
+                        .scale(x)
+                        .orient("bottom");
+
+                    var yAxis = d3.svg.axis()
+                        .scale(y)
+                        .orient("left")
+                        .ticks(10);
+
+                    var svg = d3.select("#body1").append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                        .append("g")
+                        .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+
+
+                    var data = d3.nest()
+                        .key(function (d) { return d.Age; })
+                        .rollup(function (v) { return v.length; })
+                        .entries(json);
+                    //console.log(data);
+
+                    x.domain(data.map(function (d) { return d.key; }));
+                    y.domain([0, d3.max(data, function (d) { return d.values; })]);
+
+                    svg.append("g")
+                        .attr("class", "x axis")
+                        .attr("transform", "translate(0," + height + ")")
+                        .call(xAxis)
+                        .selectAll("text")
+                        .style("text-anchor", "end")
+                        .attr("dx", "-.8em")
+                        .attr("dy", "-.55em")
+                        .attr("transform", "rotate(-90)");
+
+                    svg.append("g")
+                        .attr("class", "y axis")
+                        .call(yAxis)
+                        .append("text")
+                        .attr("transform", "rotate(-90)")
+                        .attr("y", 1)
+                        .attr("dy", ".71em")
+                        .style("text-anchor", "end")
+                        .text("Occurrence of Age");
+
+                    svg.selectAll("bar")
+                        .data(data)
+                        .enter().append("rect")
+                        .style("fill", "steelblue")
+                        .attr("x", function (d) { return x(d.key); })
+                        .attr("width", x.rangeBand())
+                        .attr("y", function (d) { return y(d.values); })
+                        .attr("height", function (d) { return height - y(d.values); });
+
+
+
+                });
+        });
+
+        function data() {
+            d3.select("g").remove();
+            $.getJSON("DataJson",
+                function (json) {
+                    //console.log(json);
+                    /*
+                    function getCount(Age) {
+                        var count = 0;
+                        for (var i = 0; i < json.length; i++) {
+                            if (json[i].Age == Age) {
+                                count++;
+                            }
+                        }
+                        return count;
+                    }
+
+                    console.log(getCount(1));
+                    */
+
+
+                    var margin = { top: 20, right: 20, bottom: 70, left: 40 },
+                        width = 950 - margin.left - margin.right,
+                        height = 300 - margin.top - margin.bottom;
+
+
+                    var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
+
+                    var y = d3.scale.linear().range([height, 0]);
+
+                    var xAxis = d3.svg.axis()
+                        .scale(x)
+                        .orient("bottom");
+
+                    var yAxis = d3.svg.axis()
+                        .scale(y)
+                        .orient("left")
+                        .ticks(10);
+
+                    var svg = d3.select("#body1").append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                        .append("g")
+                        .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+
+
+                    var data = d3.nest()
+                        .key(function (d) { return d.Age; })
+                        .rollup(function (v) { return v.length; })
+                        .entries(json);
+                    //console.log(data);
+
+
+                    x.domain(data.map(function (d) { return d.key; }));
+                    y.domain([0, d3.max(data, function (d) { return d.values; })]);
+
+                    svg.append("g")
+                        .attr("class", "x axis")
+                        .attr("transform", "translate(0," + height + ")")
+                        .call(xAxis)
+                        .selectAll("text")
+                        .style("text-anchor", "end")
+                        .attr("dx", "-.8em")
+                        .attr("dy", "-.55em")
+                        .attr("transform", "rotate(-90)");
+
+                    svg.append("g")
+                        .attr("class", "y axis")
+                        .call(yAxis)
+                        .append("text")
+                        .attr("transform", "rotate(-90)")
+                        .attr("y", 1)
+                        .attr("dy", ".71em")
+                        .style("text-anchor", "end")
+                        .text("Occurrence of Age");
+
+                    svg.selectAll("bar")
+                        .data(data)
+                        .enter().append("rect")
+                        .style("fill", "steelblue")
+                        .attr("x", function (d) { return x(d.key); })
+                        .attr("width", x.rangeBand())
+                        .attr("y", function (d) { return y(d.values); })
+                        .attr("height", function (d) { return height - y(d.values); });
+
+
+
+                });
+        }
+
+
+        function data1() {
+            d3.select("g").remove();
+            $.getJSON("DataJson",
+                function (json) {
+                    //console.log(json);
+                    /*
+                    function getCount(Age) {
+                        var count = 0;
+                        for (var i = 0; i < json.length; i++) {
+                            if (json[i].Age == Age) {
+                                count++;
+                            }
+                        }
+                        return count;
+                    }
+
+                    console.log(getCount(1));
+                    */
+
+
+                    var margin = { top: 20, right: 20, bottom: 70, left: 40 },
+                        width = 950 - margin.left - margin.right,
+                        height = 300 - margin.top - margin.bottom;
+
+
+                    var x = d3.scale.ordinal().rangeRoundBands([0, width / 2], 0.55);
+
+                    var y = d3.scale.linear().range([height, 0]);
+
+                    var xAxis = d3.svg.axis()
+                        .scale(x)
+                        .orient("bottom");
+
+                    var yAxis = d3.svg.axis()
+                        .scale(y)
+                        .orient("left")
+                        .ticks(10);
+
+                    var svg = d3.select("#body1").append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                        .append("g")
+                        .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+
+
+                    var data = d3.nest()
+                        .key(function (d) {
+                            var ageGroup = null;
+                            if (d.Age <= 10) {
+                                ageGroup = '0-10';
+                            } else if (d.Age > 10 && d.Age <= 20) {
+                                ageGroup = '10-20';
+                            } else if (d.Age > 20 && d.Age <= 30) {
+                                ageGroup = '20-30';
+                            } else if (d.Age > 30 && d.Age <= 40) {
+                                ageGroup = '30-40';
+                            } else if (d.Age > 40 && d.Age <= 50) {
+                                ageGroup = '40-50';
+                            } else if (d.Age > 50 && d.Age <= 60) {
+                                ageGroup = '50-60';
+                            } else if (d.Age > 60 && d.Age <= 70) {
+                                ageGroup = '60-70';
+                            } else if (d.Age > 70 && d.Age <= 80) {
+                                ageGroup = '70-80';
+                            } else if (d.Age > 80 && d.Age <= 90) {
+                                ageGroup = '80-90';
+                            } else if (d.Age > 90 && d.Age <= 100) {
+                                ageGroup = '90-100';
+                            }
+                            return ageGroup;
+                        })
+                        .rollup(function (v) { return v.length; })
+                        .entries(json);
+                    //console.log(data);
+
+
+                    x.domain(data.map(function (d) { return d.key; }));
+                    y.domain([0, d3.max(data, function (d) { return d.values; })]);
+
+                    svg.append("g")
+                        .attr("class", "x axis")
+                        .attr("transform", "translate(0," + height + ")")
+                        .call(xAxis)
+                        .selectAll("text")
+                        .style("text-anchor", "end")
+                        .attr("dx", "-.8em")
+                        .attr("dy", "-.55em")
+                        .attr("transform", "rotate(-90)");
+
+                    svg.append("g")
+                        .attr("class", "y axis")
+                        .call(yAxis)
+                        .append("text")
+                        .attr("transform", "rotate(-90)")
+                        .attr("y", 1)
+                        .attr("dy", ".71em")
+                        .style("text-anchor", "end")
+                        .text("Occurrence of Age");
+
+                    svg.selectAll("bar")
+                        .data(data)
+                        .enter().append("rect")
+                        .style("fill", "steelblue")
+                        .attr("x", function (d) { return x(d.key); })
+                        .attr("width", x.rangeBand())
+                        .attr("y", function (d) { return y(d.values); })
+                        .attr("height", function (d) { return height - y(d.values); });
+
+
+
+                });
+        }
+
+            function data2() {
+                d3.select("g").remove();
+                $.getJSON("DataJson",
+                    function (json) {
+                        //console.log(json);
+                        /*
+                        function getCount(Age) {
+                            var count = 0;
+                            for (var i = 0; i < json.length; i++) {
+                                if (json[i].Age == Age) {
+                                    count++;
+                                }
+                            }
+                            return count;
+                        }
+
+                        console.log(getCount(1));
+                        */
+
+
+                        var margin = { top: 20, right: 20, bottom: 70, left: 40 },
+                            width = 500 - margin.left - margin.right,
+                            height = 300 - margin.top - margin.bottom;
+
+
+                        var x = d3.scale.ordinal().rangeRoundBands([0, width / 2], .55);
+
+                        var y = d3.scale.linear().range([height, 0]);
+
+                        var xAxis = d3.svg.axis()
+                            .scale(x)
+                            .orient("bottom");
+
+                        var yAxis = d3.svg.axis()
+                            .scale(y)
+                            .orient("left")
+                            .ticks(10);
+
+                        var svg = d3.select("#body1").append("svg")
+                            .attr("width", width + margin.left + margin.right)
+                            .attr("height", height + margin.top + margin.bottom)
+                            .append("g")
+                            .attr("transform",
+                                "translate(" + margin.left + "," + margin.top + ")");
+
+
+                        var data = d3.nest()
+                            .key(function (d) { return d.Sex; })
+                            .rollup(function (v) { return v.length; })
+                            .entries(json);
+                        //console.log(data);
+
+
+
+                        x.domain(data.map(function (d) { return d.key; }));
+                        y.domain([0, d3.max(data, function (d) { return d.values; })]);
+
+                        svg.append("g")
+                            .attr("class", "x axis")
+                            .attr("transform", "translate(0," + height + ")")
+                            .call(xAxis)
+                            .selectAll("text")
+                            .style("text-anchor", "end")
+                            .attr("dx", "-.8em")
+                            .attr("dy", "-.55em")
+                            .attr("transform", "rotate(-90)");
+
+                        svg.append("g")
+                            .attr("class", "y axis")
+                            .call(yAxis)
+                            .append("text")
+                            .attr("transform", "rotate(-90)")
+                            .attr("y", 1)
+                            .attr("dy", ".71em")
+                            .style("text-anchor", "end")
+                            .text("Number of Male or Female");
+
+                        svg.selectAll("bar")
+                            .data(data)
+                            .enter().append("rect")
+                            .style("fill", "steelblue")
+                            .attr("x", function (d) { return x(d.key); })
+                            .attr("width", x.rangeBand())
+                            .attr("y", function (d) { return y(d.values); })
+                            .attr("height", function (d) { return height - y(d.values); });
+
+
+
+                    });
+            
+        }
+    </script>
+</body>
+
+
