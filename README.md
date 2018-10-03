@@ -39,8 +39,13 @@
 6. Option: Microsoft Visual Studio
 
  ## In Progress
- * MVC application in C# with the latest .NET version using data from Database
+ * MVC application in C# with the latest .NET version using SQL Database (Microsoft Azure)
+ * Linq to SQL for marathon database
+ * ado.net entity data model for user database
+ * d3.js used for visualization
+ * bootstrap
+ * mapbox used for marathon track map
  
- #version 1 (Released) 
- 
- [https://webapplication320181003040402.azurewebsites.net](https://webapplication320181003040402.azurewebsites.net)
+    # version 1 (Released) 
+
+    [https://webapplication320181003040402.azurewebsites.net](https://webapplication320181003040402.azurewebsites.net)
